@@ -1,4 +1,4 @@
-## ENSDF-Summary - overview of the content of ENSDF-Archive files
+## ENSDF-Summary - overview of the content of ENSDF library
 _by V.Zerkin, 2025_
 
 ### Introdiuction
