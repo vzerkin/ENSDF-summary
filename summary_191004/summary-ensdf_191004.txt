@@ -1,0 +1,67 @@
+
+-------Summary of ENSDF files-------
+  Files:       300
+  Size:        236479257(~226M)
+  Lines:       2919497
+  Mass Chains: 298
+  Nuclides:    3346
+  Datasets:    19100
+  Dates:       199503-201909
+
+--------Summary of updating--------
+--Year  #Datasets #Files
+  2019  582       35  |||||||||||||||||||||||||||||||||||
+  2018  924       15  |||||||||||||||
+  2017  922       39  |||||||||||||||||||||||||||||||||||||||
+  2016  1087      33  |||||||||||||||||||||||||||||||||
+  2015  1464      78  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+  2014  1235      22  ||||||||||||||||||||||
+  2013  1077      21  |||||||||||||||||||||
+  2012  1484      11  |||||||||||
+  2011  1321      10  ||||||||||
+  2010  1257      10  ||||||||||
+  2009  1245      5   |||||
+  2008  1253      1   |
+  2007  1217      3   |||
+  2006  1067      8   ||||||||
+  2005  761       4   ||||
+  2004  363       -
+  2003  342       1   |
+  2002  227       -
+  2001  317       1   |
+  2000  212       -
+  1999  195       1   |
+  1998  201       -
+  1997  1         -
+  1996  80        -
+  1995  200       -
+
+---#Datasets by types---
+  10057 #Reactions#
+   4345 #Decay#
+   2218 ADOPTED LEVELS, GAMMAS        
+   1049 ADOPTED LEVELS                
+    686 COMMENTS                      
+    366 COULOMB EXCITATION            
+    247 REFERENCES                    
+     32 MUONIC ATOM                   
+     32 ADOPTED LEVELS:TENTATIVE      
+     20 ADOPTED LEVELS: TENTATIVE     
+     12 ADOPTED LEVELS: NOT OBSERVED  
+     10 ADOPTED LEVELS:NOT OBSERVED   
+      8 INELASTIC SCATTERING          
+      4 ADOPTED LEVELS: Tentative     
+      2 COULOMB EXCITATION: PROJECTILE
+      1 NEUTRON RESONANCES            
+      1 MUONIC ATOM: PIONIC ATOM      
+      1 INELASTIC SCATTERING:GIANT RES
+      1 INELASTIC SCATTERING: GAMMAS  
+      1 COULOMB EXCITATION:PROJECTILE 
+      1 COULOMB EXCITATION:PRELIMINARY
+      1 COULOMB EXCITATION: LI        
+      1 COULOMB EXCITATION: HI        
+      1 ADOPTED LEVELS:UNOBSERVED     
+      1 ADOPTED LEVELS:NOT DETECTED   
+      1 ADOPTED LEVELS: NOT DETECTED  
+      1 ADOPTED LEVELS: ?             
+

@@ -1,0 +1,203 @@
+ 50      COMMENTS                                                19NDS    201906
+ 50CL    ADOPTED LEVELS                                          19NDS    201906
+ 50AR    ADOPTED LEVELS, GAMMAS                                  19NDS    201906
+ 50AR    9BE(HI,50ARG)                 2015ST10                  19NDS    201906
+ 50K     ADOPTED LEVELS, GAMMAS                                  19NDS    201906
+ 50K     50AR B- DECAY (106 MS)        2003WE09,2012WE08         19NDS    201906
+ 50K     50K IT DECAY (131 NS)         2009CR03,2010DA06,2012KA3619NDS    201906
+ 50CA    ADOPTED LEVELS, GAMMAS                                  19NDS    201906
+ 50CA    50K B- DECAY (472 MS)         1998BA80,1986MI08,1983RAZR19NDS    201906
+ 50CA    51K B-N DECAY (365 MS)        2006PE16,1983LA23         19NDS    201906
+ 50CA    48CA(T,P),(POL T,P)           1983DAZV,1967BJ06         19NDS    201906
+ 50CA    48CA(A,2P)                    1990FI07                  19NDS    201906
+ 50CA    48CA(238U,XG)                 2007RE19                  19NDS    201906
+ 50CA    208PB(48CA,XG)                2012MO11                  19NDS    201906
+ 50CA    238U(48CA,XG)                 2005BR18                  19NDS    201906
+ 50CA    52K B-2N DECAY (110 MS)       2006PE16                  19NDS    201906
+ 50CA    1H(50CA,P'G)                  2014RI04                  19NDS    201906
+ 50SC    ADOPTED LEVELS, GAMMAS                                  19NDS    201906
+ 50SC    50SC IT DECAY (0.35 S)        1984AL18,1964SH14,1963KA2119NDS    201906
+ 50SC    48CA(3HE,P)                   1969LA02,1969OH01,1970SC2219NDS    201906
+ 50SC    48CA(A,D)                     1969MO18,1994FI01         19NDS    201906
+ 50SC    48CA(16O,14N)                 1978KO01                  19NDS    201906
+ 50SC    50TI(T,3HE)                   1985AJ03                  19NDS    201906
+ 50SC    50CA B- DECAY (13.45 S)       2017GA25,1984AL18         19NDS    201906
+ 50TI    ADOPTED LEVELS, GAMMAS                                  19NDS    201906
+ 50TI    50SC B- DECAY (102.5 S)       1984AL18,1970CO32,1970NO0419NDS    201906
+ 50TI    50SC B- DECAY (0.35 S):?      1984AL18                  19NDS    201906
+ 50TI    9BE(46AR,5NG)                 2009NI17                  19NDS    201906
+ 50TI    48CA(3HE,N)                   1974EV02                  19NDS    201906
+ 50TI    48CA(A,2NG),(6LI,3NPG)        1979ST13,1978HA17         19NDS    201906
+ 50TI    48CA(9BE,3NAG)                2000APZX                  19NDS    201906
+ 50TI    48CA(16O,14C),(18O,16C)       1978KO01,1976EI02,1989OG0119NDS    201906
+ 50TI    48TI(T,P),(T,PG)              1974PR11,1967HI03         19NDS    201906
+ 50TI    49TI(N,G),(POL N,G) E=THERMAL 1984RU06,1971TE01         19NDS    201906
+ 50TI    49TI(N,G),(N,N):RESONANCES    2018MUZY                  19NDS    201906
+ 50TI    49TI(D,P)                     1965BA22,1964BJ01         19NDS    201906
+ 50TI    49TI(D,PG)                    1984SO08                  19NDS    201906
+ 50TI    50TI(G,G')                    1976RA03                  19NDS    201906
+ 50TI    50TI(E,E')                    1985SO05,1988SE02         19NDS    201906
+ 50TI    50TI(PI-,PI-'),(PI+,PI+')     1988OA01,1987OA01         19NDS    201906
+ 50TI    50TI(P,P')                    1985FU10,1970PR08,1983Dj0519NDS    201906
+ 50TI    50TI(3HE,3HE'),(A,A')         1970BR07,1967YN01         19NDS    201906
+ 50TI    COULOMB EXCITATION            2000SP08,1975TO06,1970HA2419NDS    201906
+ 50TI    50V(D,2HE)                    2005BA14                  19NDS    201906
+ 50TI    51V(E,E'P)                    1988DE43,1986DE23         19NDS    201906
+ 50TI    51V(N,D)                      1990MC04                  19NDS    201906
+ 50TI    51V(P,2P)                     1967RU03                  19NDS    201906
+ 50TI    51V(D,3HE),(POL D,3HE)        1988KR02,1986FUZY         19NDS    201906
+ 50TI    51V(A,A'P)                    1989NO01                  19NDS    201906
+ 50TI    52CR(14C,16O)                 1988BA45,1979PE08         19NDS    201906
+ 50TI    50V EC DECAY (2.65E+17 Y)     2019LA09,2011DO08,1989SI0719NDS    201906
+ 50TI    C(46CA,50TIG)                 2003SP04                  19NDS    201906
+ 50V     ADOPTED LEVELS, GAMMAS                                  19NDS    201906
+ 50V     47TI(A,PG)                    1977KE17                  19NDS    201906
+ 50V     48TI(T,NG)                    1969SE01                  19NDS    201906
+ 50V     48TI(3HE,P),(3HE,PG)          1973SM02,1972CA32,1971DE1019NDS    201906
+ 50V     48TI(A,NPG)                   1978GIZZ,1977GI18         19NDS    201906
+ 50V     49TI(P,G):RESONANCES          1961DU03,1969SE01         19NDS    201906
+ 50V     49TI(3HE,D)                   1973SO12,1973SM02,1970BI0719NDS    201906
+ 50V     50TI(P,N),(P,NG)              1974RI13,1974TO10,1975GU2219NDS    201906
+ 50V     50TI(3HE,T)                   1969BR04                  19NDS    201906
+ 50V     50V(P,P')                     1969BU03                  19NDS    201906
+ 50V     50V(D,D')                     1968HA31                  19NDS    201906
+ 50V     COULOMB EXCITATION            1969BLZW,1956FA29,1956TE2619NDS    201906
+ 50V     51V(P,D)                      1978OH01                  19NDS    201906
+ 50V     51V(D,T)                      1973SO12,1971DE10         19NDS    201906
+ 50V     51V(3HE,A)                    1975MA06,1973SM02         19NDS    201906
+ 50V     52CR(P,3HE)                   1975GU19                  19NDS    201906
+ 50V     52CR(D,A)                     1971DE10                  19NDS    201906
+ 50CR    ADOPTED LEVELS, GAMMAS                                  19NDS    201906
+ 50CR    50MN EC DECAY (283.19 MS)     1994HA43,2009HA12         19NDS    201906
+ 50CR    50MN EC DECAY (1.75 M)        1972RA14,2013SU07         19NDS    201906
+ 50CR    24MG(32S,A2PG)                1997LE15                  19NDS    201906
+ 50CR    28SI(28SI,A2PG)               1998CA26,1998BR34,2002BR4119NDS    201906
+ 50CR    48TI(3HE,N)                   1975BO14                  19NDS    201906
+ 50CR    48TI(16O,14C)                 1971LE07                  19NDS    201906
+ 50CR    50V(P,NG)                     1971MI24                  19NDS    201906
+ 50CR    50CR(E,E')                    1983LI02                  19NDS    201906
+ 50CR    50CR(N,N'G)                   1978KA21                  19NDS    201906
+ 50CR    50CR(A,A')                    1974PE01,1972PE28         19NDS    201906
+ 50CR    50CR(A,A'G)                   1977EV03                  19NDS    201906
+ 50CR    COULOMB EXCITATION            2000ER06                  19NDS    201906
+ 50CR    52CR(P,T)                     2016LE10,1971BA46,1972RA1419NDS    201906
+ 50CR    54FE(P,PA)                    1984CA09                  19NDS    201906
+ 50CR    50V B- DECAY (2.65E+17 Y):?   2019LA09,2011DO08,1989SI0719NDS    201906
+ 50CR    40CA(16O,A2PG),(12C,2PG)      1974KU11,1973DE09,1994PA3419NDS    201906
+ 50CR    50CR(G,G'),(POL G,G')         2016PA04                  19NDS    201906
+ 50CR    50CR(P,P')                    1966MA42,1974PE01,1989WI1319NDS    201906
+ 50CR    50CR(P,P'G)                   1972RA14,1972AS01,1968MO0719NDS    201906
+ 50CR    50CR(D,D')                    1974PE01,1972PE28,1968HA3119NDS    201906
+ 50CR    50CR(3HE,3HE')                1974PE01,1972PE28         19NDS    201906
+ 50MN    ADOPTED LEVELS, GAMMAS                                  19NDS    201906
+ 50MN    24MG(32S,APNG)                2002OL01                  19NDS    201906
+ 50MN    28SI(28SI,APNG)               1998SV02                  19NDS    201906
+ 50MN    40CA(12C,PNG)                 2002PI04                  19NDS    201906
+ 50MN    50CR(P,N)                     1971KI17,2008ER04         19NDS    201906
+ 50MN    50CR(P,NG)                    2000SC35                  19NDS    201906
+ 50MN    50CR(3HE,T)                   1972MC02,1972FA01,2005FU1619NDS    201906
+ 50MN    50FE EC DECAY (152.0 MS)      2015MO01                  19NDS    201906
+ 50FE    ADOPTED LEVELS, GAMMAS                                  19NDS    201906
+ 50FE    50CO EC DECAY (38.8 MS)       2007DO17,1996FA09         19NDS    201906
+ 50FE    51NI ECP DECAY (23.8 MS)      2007DO17                  19NDS    201906
+ 50FE    28SI(28SI,A2NG)               2001LE31                  19NDS    201906
+ 50FE    54FE(A,8HE)                   1977TR05                  19NDS    201906
+ 50FE    PB(50FE,50FE'G)               2005YA26                  19NDS    201906
+ 50CO    ADOPTED LEVELS                                          19NDS    201906
+ 50CO    50NI EC DECAY (18.5 MS)       2007Do17                  19NDS    201906
+ 50NI    ADOPTED LEVELS                                          19NDS    201906
+ 51      COMMENTS                                                17NDS    201709
+ 51CL    ADOPTED LEVELS                                          17NDS    201709
+ 51AR    ADOPTED LEVELS                                          17NDS    201709
+ 51K     ADOPTED LEVELS                                          17NDS    201709
+ 51K     U(P,X)                        2013PA11,2014KR04,2014PA4517NDS    201709
+ 51CA    ADOPTED LEVELS, GAMMAS                                  17NDS    201709
+ 51CA    48CA(18O,15O), (14C,11C)      1988CA21,1985BR03,1980MA4017NDS    201709
+ 51CA    51K B- DECAY (365 MS)         2006PE16,1983RAZR         17NDS    201709
+ 51CA    52K B-N DECAY (110 MS)        1985HU03,2006PE16         17NDS    201709
+ 51CA    53K B-2N DECAY (30 MS)        2006PE16                  17NDS    201709
+ 51CA    48CA(238U,XG)                 2007RE19                  17NDS    201709
+ 51CA    238U(48CA,XG)                 2008FO01                  17NDS    201709
+ 51CA    U(P,X)                        2015RU02                  17NDS    201709
+ 51SC    ADOPTED LEVELS, GAMMAS                                  17NDS    201709
+ 51SC    51CA B- DECAY                 1980HU14                  17NDS    201709
+ 51SC    48CA(A,P)                     1983EL08,1970GI10         17NDS    201709
+ 51SC    48CA(48CA,XG)                 2005Br18                  17NDS    201709
+ 51SC    48CA(238U,XG)                 2009BH02                  17NDS    201709
+ 51SC    208PB(48CA,XG)                2012MO11,2009VA06         17NDS    201709
+ 51TI    ADOPTED LEVELS, GAMMAS                                  17NDS    201709
+ 51TI    51SC B- DECAY                 1976DA16                  17NDS    201709
+ 51TI    48CA(A,NG)                    1972AR37                  17NDS    201709
+ 51TI    48CA(6LI,2NPG), (7LI,3NPG)    1976BR29                  17NDS    201709
+ 51TI    48CA(16O,13C)                 1978KO01                  17NDS    201709
+ 51TI    49TI(T,P)                     1968GL04                  17NDS    201709
+ 51TI    50TI(N,G) E=THERMAL           1971AR39                  17NDS    201709
+ 51TI    50TI(D,P), (POL D,P)          1964BA39,1968GL04,1972KO4117NDS    201709
+ 51TI    50TI(D,PG)                    1987TA03                  17NDS    201709
+ 51TI    50TI(13C,12C)                 1979PO16                  17NDS    201709
+ 51TI    51V(D,2HE)                    2003Ba77                  17NDS    201709
+ 51TI    9BE(46AR,4NG)                 2009NI17                  17NDS    201709
+ 51V     ADOPTED LEVELS, GAMMAS                                  17NDS    201709
+ 51V     51TI B- DECAY                 1976BEXW,1974HEYW,1969HA4617NDS    201709
+ 51V     51CR EC DECAY                 2005Ya01,2000He14         17NDS    201709
+ 51V     48CA(16O,13B), (36S,33AL)     1986WO07,1978KO01,1978BH0217NDS    201709
+ 51V     48TI(A,P)                     1971MA14,1970GI10         17NDS    201709
+ 51V     48TI(A,PG)                    1970HO16,1970MO12,1972GO1017NDS    201709
+ 51V     50TI(P,P'),(P,P'G),(P,N) IAR  1973RO40,1973PR18,1974TO1017NDS    201709
+ 51V     50TI(3HE,D)                   1967OB04,1969PU02,1976GA0417NDS    201709
+ 51V     50TI(3HE,DG), (D,NG)          1970MO12,1976WH01         17NDS    201709
+ 51V     50TI(A,T)                     1972YAZS                  17NDS    201709
+ 51V     50TI(16O,15N)                 1976MA51                  17NDS    201709
+ 51V     50V(N,G) E=THERMAL            1991MI08,1978RO03,1973HAWJ17NDS    201709
+ 51V     50V(D,P)                      1967DE02                  17NDS    201709
+ 51V     51V(G,G)                      1963KR02                  17NDS    201709
+ 51V     51V(G,G')                     1999Ka65                  17NDS    201709
+ 51V     51V(E,E')                     1970HU12,1973PE04         17NDS    201709
+ 51V     51V(PI,PI')                   1987OA02                  17NDS    201709
+ 51V     51V(N,N'G)                    1980KA40,1982AB06,1970POZZ17NDS    201709
+ 51V     51V(N,N')                     1968TO08                  17NDS    201709
+ 51V     51V(P,P')                     1970PR08,1969PE02,1958MA4617NDS    201709
+ 51V     51V(P,P'G)                    1980VA08,1976WH01         17NDS    201709
+ 51V     51V(D,D'), (D,PN)             1968HA31,1961CO07         17NDS    201709
+ 51V     51V(A,A')                     1968PE08                  17NDS    201709
+ 51V     COULOMB EXCITATION            1970HO16,1969SH12,1972WAYZ17NDS    201709
+ 51V     52CR(N,D)                     1961CO08                  17NDS    201709
+ 51V     52CR(D,3HE)                   1968NE03                  17NDS    201709
+ 51V     52CR(T,A)                     1967GL09                  17NDS    201709
+ 51V     52CR(13C,14N)                 1979FU01                  17NDS    201709
+ 51V     53CR(D,A)                     1964BJ01                  17NDS    201709
+ 51V     (HI,XNG)                      1978LI21,1974PO10,1973GOZE17NDS    201709
+ 51CR    ADOPTED LEVELS, GAMMAS                                  17NDS    201709
+ 51CR    51MN EC DECAY                 1973FE12,1966GL02,1974FEZS17NDS    201709
+ 51CR    48TI(A,NG)                    1980KA10,1973SA12,1973SZ0117NDS    201709
+ 51CR    49TI(3HE,N)                   1972GR08                  17NDS    201709
+ 51CR    50V(3HE,D)                    1969DO01                  17NDS    201709
+ 51CR    50CR(N,G),(POL N,G) E=THERMAL 1974KOYY,1972KO15,1972LO2617NDS    201709
+ 51CR    50CR(D,P),(POL D,P)           1977CH12,1977BA14,1972MA3917NDS    201709
+ 51CR    51V(P,N)                      1972EG01,1970TE02,1967CO1317NDS    201709
+ 51CR    51V(P,NG)                     1985AV04,1970SA15,1971IY0317NDS    201709
+ 51CR    51V(3HE,T)                    1971BE29                  17NDS    201709
+ 51CR    52CR(G,NG')                   1981IS10                  17NDS    201709
+ 51CR    52CR(N,2NG)                   1974DE56                  17NDS    201709
+ 51CR    52CR(3HE,A)                   1978FO34                  17NDS    201709
+ 51CR    (HI,XNG)                      1991CA30                  17NDS    201709
+ 51MN    ADOPTED LEVELS, GAMMAS                                  17NDS    201709
+ 51MN    51FE EC DECAY                 1989HO13,1984AY01         17NDS    201709
+ 51MN    24MG(32S,APG)                 2000Be52,2004Du25         17NDS    201709
+ 51MN    28SI(32S,2APG)                2002EK01,2004EK02         17NDS    201709
+ 51MN    50CR(P,G)                     1972FO25,1986DI01,1988CA0517NDS    201709
+ 51MN    50CR(P,P), (P,P'G), (P,G) IAR 1988DI03,1988CA05,1986DI0117NDS    201709
+ 51MN    50CR(D,N)                     2010CH15,1968OK05         17NDS    201709
+ 51MN    50CR(3HE,D), (7LI,6HE)        1981KI02,1979PA01,1967RA1417NDS    201709
+ 51MN    50CR(3HE,DG)                  1977MA22                  17NDS    201709
+ 51MN    54FE(P,A), (POL P,A)          1976TA02,1979TA22         17NDS    201709
+ 51MN    54FE(P,AG)                    1977NO01                  17NDS    201709
+ 51MN    (HI,XNG)                      1991CA30,1978NOZW,1977NO0117NDS    201709
+ 51MN    U(P,X)                        2015BA49                  17NDS    201709
+ 51FE    ADOPTED LEVELS, GAMMAS                                  17NDS    201709
+ 51FE    24MG(32S,ANG)                 2000BE52,2004Du25         17NDS    201709
+ 51FE    28SI(32S,2ANG)                2000EK02,2004EK03         17NDS    201709
+ 51FE    54FE(3HE,6HE),50CR(3HE,2N)    1977Mu03,1984Ay01         17NDS    201709
+ 51FE    52NI ECP DECAY (40.8 MS)      2007DO17                  17NDS    201709
+ 51FE    9BE(58NI,X)                   2015SH16                  17NDS    201709
+ 51FE    NI(58NI,X)                    2013SU07                  17NDS    201709

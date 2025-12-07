@@ -1,0 +1,69 @@
+
+-------Summary of ENSDF files-------
+  Files:       300
+  Size:        263660513(~252M)
+  Lines:       3274913
+  Mass Chains: 299
+  Nuclides:    3443
+  Datasets:    20093
+  Dates:       199509-202511
+
+--------Summary of updating--------
+--Year  #Datasets #Files
+  2025  1053      13  |||||||||||||
+  2024  884       12  ||||||||||||
+  2023  478       24  ||||||||||||||||||||||||
+  2022  1356      62  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+  2021  1038      55  |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+  2020  787       13  |||||||||||||
+  2019  704       29  |||||||||||||||||||||||||||||
+  2018  920       7   |||||||
+  2017  871       11  |||||||||||
+  2016  1044      17  |||||||||||||||||
+  2015  1276      27  |||||||||||||||||||||||||||
+  2014  988       8   ||||||||
+  2013  860       8   ||||||||
+  2012  1253      4   ||||
+  2011  900       2   ||
+  2010  1035      -
+  2009  919       -
+  2008  893       -
+  2007  640       1   |
+  2006  634       3   |||
+  2005  353       -
+  2004  68        -
+  2003  52        1   |
+  2002  190       -
+  2001  300       1   |
+  2000  87        -
+  1999  166       1   |
+  1998  116       -
+  1996  73        -
+  1995  137       -
+
+---#Datasets by types---
+  10920 #Reactions#
+   4472 #Decay#
+   2289 ADOPTED LEVELS, GAMMAS        
+   1054 ADOPTED LEVELS                
+    649 COMMENTS                      
+    396 COULOMB EXCITATION            
+    166 REFERENCES                    
+     39 ADOPTED LEVELS:TENTATIVE      
+     31 MUONIC ATOM                   
+     24 ADOPTED LEVELS:UNOBSERVED     
+     17 ADOPTED LEVELS:NOT OBSERVED   
+     10 ADOPTED LEVELS:INFERRED       
+      7 INELASTIC SCATTERING          
+      6 ADOPTED LEVELS: NOT OBSERVED  
+      3 ADOPTED LEVELS: TENTATIVE     
+      2 INELASTIC SCATTERING:GIANT RES
+      1 NEUTRON RESONANCES            
+      1 MUONIC ATOM: PIONIC ATOM      
+      1 INELASTIC SCATTERING: GAMMAS  
+      1 COULOMB EXCITATION:PROJECTILE 
+      1 COULOMB EXCITATION: PROJECTILE
+      1 COULOMB EXCITATION:PRELIMINARY
+      1 COULOMB EXCITATION: LI        
+      1 COULOMB EXCITATION: HI        
+

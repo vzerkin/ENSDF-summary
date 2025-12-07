@@ -1,0 +1,376 @@
+---ENSDF files statistics.
+---Generated: 2025-12-07,20:50:58
+---Computer:  zerkin-VirtualBox
+---Directory: /home/zerkin/ensdf_211101
+
+----------ENSDF-files----------
+   1  ensdf.001  [200601-200601]  size:55404    lines:684    datasets:9   
+   2  ensdf.002  [200309-200309]  size:9558     lines:118    datasets:4   
+   3  ensdf.003  [201512-201512]  size:74034    lines:914    datasets:17  
+   4  ensdf.004  [199807-201903]  size:48114    lines:594    datasets:9   
+   5  ensdf.005  [200211-201903]  size:63423    lines:783    datasets:21  
+   6  ensdf.006  [200212-201903]  size:140373   lines:1733   datasets:59  
+   7  ensdf.007  [200212-201903]  size:142560   lines:1760   datasets:61  
+   8  ensdf.008  [200505-201903]  size:285039   lines:3519   datasets:76  
+   9  ensdf.009  [200602-202110]  size:324081   lines:4001   datasets:81  
+  10  ensdf.010  [200705-201903]  size:390663   lines:4823   datasets:108 
+  11  ensdf.011  [201203-202006]  size:579636   lines:7156   datasets:132 
+  12  ensdf.012  [201808-201808]  size:678942   lines:8382   datasets:139 
+  13  ensdf.013  [200006-202105]  size:179415   lines:2215   datasets:78  
+  14  ensdf.014  [200110-201405]  size:262278   lines:3238   datasets:98  
+  15  ensdf.015  [200204-201612]  size:257418   lines:3178   datasets:86  
+  16  ensdf.016  [199902-202006]  size:300186   lines:3706   datasets:60  
+  17  ensdf.017  [199902-202110]  size:837216   lines:10336  datasets:125 
+  18  ensdf.018  [199607-202110]  size:354861   lines:4381   datasets:75  
+  19  ensdf.019  [199607-202110]  size:355266   lines:4386   datasets:88  
+  20  ensdf.020  [199807-201911]  size:399816   lines:4936   datasets:86  
+  21  ensdf.021  [201507-201903]  size:315738   lines:3898   datasets:68  
+  22  ensdf.022  [201507-201507]  size:585306   lines:7226   datasets:77  
+  23  ensdf.023  [202101-202101]  size:914571   lines:11291  datasets:88  
+  24  ensdf.024  [200710-201506]  size:491427   lines:6067   datasets:59  
+  25  ensdf.025  [200908-201312]  size:316386   lines:3906   datasets:43  
+  26  ensdf.026  [201604-201604]  size:918783   lines:11343  datasets:85  
+  27  ensdf.027  [201108-201108]  size:454248   lines:5608   datasets:54  
+  28  ensdf.028  [201310-201310]  size:580527   lines:7167   datasets:55  
+  29  ensdf.029  [201205-201602]  size:332991   lines:4111   datasets:47  
+  30  ensdf.030  [201009-201601]  size:575829   lines:7109   datasets:48  
+  31  ensdf.031  [201303-201303]  size:1240515  lines:15315  datasets:98  
+  32  ensdf.032  [201109-202006]  size:1077057  lines:13297  datasets:89  
+  33  ensdf.033  [201105-202006]  size:790560   lines:9760   datasets:73  
+  34  ensdf.034  [201206-201206]  size:1064664  lines:13144  datasets:96  
+  35  ensdf.035  [201111-201712]  size:920079   lines:11359  datasets:82  
+  36  ensdf.036  [201201-202106]  size:939357   lines:11597  datasets:108 
+  37  ensdf.037  [201203-201506]  size:940248   lines:11608  datasets:79  
+  38  ensdf.038  [201810-201810]  size:1347354  lines:16634  datasets:103 
+  39  ensdf.039  [201803-201803]  size:870183   lines:10743  datasets:101 
+  40  ensdf.040  [201702-202106]  size:1652157  lines:20397  datasets:117 
+  41  ensdf.041  [201603-201603]  size:1289844  lines:15924  datasets:106 
+  42  ensdf.042  [201607-201607]  size:1194912  lines:14752  datasets:101 
+  43  ensdf.043  [201506-201506]  size:913275   lines:11275  datasets:88  
+  44  ensdf.044  [201109-202102]  size:824094   lines:10174  datasets:107 
+  45  ensdf.045  [200802-200802]  size:929880   lines:11480  datasets:77  
+  46  ensdf.046  [200011-201209]  size:687852   lines:8492   datasets:105 
+  47  ensdf.047  [200705-200705]  size:1010556  lines:12476  datasets:82  
+  48  ensdf.048  [200607-201001]  size:1200501  lines:14821  datasets:102 
+  49  ensdf.049  [200809-201102]  size:1199691  lines:14811  datasets:79  
+  50  ensdf.050  [201906-201906]  size:948753   lines:11713  datasets:108 
+  51  ensdf.051  [201709-201709]  size:1174500  lines:14500  datasets:100 
+  52  ensdf.052  [201509-202106]  size:757350   lines:9350   datasets:106 
+  53  ensdf.053  [200910-202106]  size:807570   lines:9970   datasets:82  
+  54  ensdf.054  [201408-201408]  size:768771   lines:9491   datasets:125 
+  55  ensdf.055  [200803-201007]  size:1133757  lines:13997  datasets:96  
+  56  ensdf.056  [201105-201111]  size:902583   lines:11143  datasets:95  
+  57  ensdf.057  [199812-201004]  size:700326   lines:8646   datasets:92  
+  58  ensdf.058  [201004-201510]  size:1257363  lines:15523  datasets:109 
+  59  ensdf.059  [201808-201808]  size:1385748  lines:17108  datasets:93  
+  60  ensdf.060  [201312-201406]  size:1205523  lines:14883  datasets:122 
+  61  ensdf.061  [201503-202006]  size:1336986  lines:16506  datasets:92  
+  62  ensdf.062  [201205-201205]  size:845154   lines:10434  datasets:97  
+  63  ensdf.063  [200906-200908]  size:572670   lines:7070   datasets:64  
+  64  ensdf.064  [200703-201409]  size:1053729  lines:13009  datasets:122 
+  65  ensdf.065  [201009-201009]  size:804735   lines:9935   datasets:76  
+  66  ensdf.066  [201004-201511]  size:760023   lines:9383   datasets:77  
+  67  ensdf.067  [200512-201306]  size:398115   lines:4915   datasets:61  
+  68  ensdf.068  [201206-201206]  size:795663   lines:9823   datasets:82  
+  69  ensdf.069  [201401-201504]  size:868968   lines:10728  datasets:69  
+  70  ensdf.070  [201609-201609]  size:842481   lines:10401  datasets:97  
+  71  ensdf.071  [201012-201012]  size:858276   lines:10596  datasets:65  
+  72  ensdf.072  [201002-202106]  size:819963   lines:10123  datasets:80  
+  73  ensdf.073  [201908-201908]  size:943893   lines:11653  datasets:69  
+  74  ensdf.074  [200607-201709]  size:1007073  lines:12433  datasets:92  
+  75  ensdf.075  [201309-201309]  size:1227555  lines:15155  datasets:76  
+  76  ensdf.076  [199503-201407]  size:829845   lines:10245  datasets:73  
+  77  ensdf.077  [202011-202011]  size:1212732  lines:14972  datasets:79  
+  78  ensdf.078  [200910-200910]  size:969084   lines:11964  datasets:84  
+  79  ensdf.079  [201607-201607]  size:989172   lines:12212  datasets:74  
+  80  ensdf.080  [200508-201408]  size:955962   lines:11802  datasets:82  
+  81  ensdf.081  [200810-201504]  size:1055916  lines:13036  datasets:73  
+  82  ensdf.082  [201906-201906]  size:826929   lines:10209  datasets:77  
+  83  ensdf.083  [201503-201503]  size:1040445  lines:12845  datasets:67  
+  84  ensdf.084  [200910-201602]  size:788211   lines:9731   datasets:77  
+  85  ensdf.085  [201408-201505]  size:870588   lines:10748  datasets:87  
+  86  ensdf.086  [201412-201602]  size:954504   lines:11784  datasets:94  
+  87  ensdf.087  [201510-201511]  size:1124280  lines:13880  datasets:75  
+  88  ensdf.088  [201401-201401]  size:1073331  lines:13251  datasets:94  
+  89  ensdf.089  [201302-201610]  size:1219455  lines:15055  datasets:111 
+  90  ensdf.090  [202005-202005]  size:1227312  lines:15152  datasets:108 
+  91  ensdf.091  [201310-201310]  size:1159191  lines:14311  datasets:109 
+  92  ensdf.092  [201210-201610]  size:1192158  lines:14718  datasets:133 
+  93  ensdf.093  [201105-201610]  size:1284012  lines:15852  datasets:114 
+  94  ensdf.094  [200609-201610]  size:932634   lines:11514  datasets:102 
+  95  ensdf.095  [201010-202102]  size:1048464  lines:12944  datasets:102 
+  96  ensdf.096  [200810-201610]  size:1036719  lines:12799  datasets:96  
+  97  ensdf.097  [201004-202006]  size:1269432  lines:15672  datasets:99  
+  98  ensdf.098  [202004-202004]  size:1883736  lines:23256  datasets:121 
+  99  ensdf.099  [201709-202102]  size:1246995  lines:15395  datasets:90  
+ 100  ensdf.100  [202102-202109]  size:2379132  lines:29372  datasets:116 
+ 101  ensdf.101  [200610-202102]  size:880146   lines:10866  datasets:85  
+ 102  ensdf.102  [200908-202102]  size:946566   lines:11686  datasets:84  
+ 103  ensdf.103  [200910-201505]  size:963252   lines:11892  datasets:77  
+ 104  ensdf.104  [200709-202102]  size:852444   lines:10524  datasets:81  
+ 105  ensdf.105  [202002-202102]  size:1319895  lines:16295  datasets:86  
+ 106  ensdf.106  [200806-202102]  size:967221   lines:11941  datasets:92  
+ 107  ensdf.107  [200805-201506]  size:762858   lines:9418   datasets:81  
+ 108  ensdf.108  [200810-202102]  size:1240920  lines:15320  datasets:102 
+ 109  ensdf.109  [201610-201611]  size:1617003  lines:19963  datasets:91  
+ 110  ensdf.110  [201206-202102]  size:1609632  lines:19872  datasets:96  
+ 111  ensdf.111  [200905-202102]  size:1012014  lines:12494  datasets:83  
+ 112  ensdf.112  [201412-201806]  size:1592379  lines:19659  datasets:103 
+ 113  ensdf.113  [201006-202102]  size:990711   lines:12231  datasets:98  
+ 114  ensdf.114  [201203-202102]  size:1159839  lines:14319  datasets:98  
+ 115  ensdf.115  [201210-201906]  size:771768   lines:9528   datasets:91  
+ 116  ensdf.116  [201004-202102]  size:1118205  lines:13805  datasets:108 
+ 117  ensdf.117  [201101-202102]  size:930771   lines:11491  datasets:102 
+ 118  ensdf.118  [199509-201507]  size:610335   lines:7535   datasets:79  
+ 119  ensdf.119  [200910-202102]  size:895212   lines:11052  datasets:74  
+ 120  ensdf.120  [200209-201706]  size:774279   lines:9559   datasets:82  
+ 121  ensdf.121  [201006-201507]  size:1127196  lines:13916  datasets:86  
+ 122  ensdf.122  [200704-202102]  size:1124037  lines:13877  datasets:88  
+ 123  ensdf.123  [202105-202105]  size:1787994  lines:22074  datasets:104 
+ 124  ensdf.124  [200807-201508]  size:1693224  lines:20904  datasets:94  
+ 125  ensdf.125  [201102-202102]  size:1403568  lines:17328  datasets:86  
+ 126  ensdf.126  [200301-201508]  size:865647   lines:10687  datasets:78  
+ 127  ensdf.127  [201108-201507]  size:1224072  lines:15112  datasets:77  
+ 128  ensdf.128  [201510-202102]  size:1584684  lines:19564  datasets:81  
+ 129  ensdf.129  [201408-201507]  size:1628019  lines:20099  datasets:95  
+ 130  ensdf.130  [200107-202102]  size:1042389  lines:12869  datasets:95  
+ 131  ensdf.131  [200612-202102]  size:1343466  lines:16586  datasets:79  
+ 132  ensdf.132  [200504-201803]  size:1406970  lines:17370  datasets:93  
+ 133  ensdf.133  [201104-201104]  size:1588491  lines:19611  datasets:70  
+ 134  ensdf.134  [200410-201505]  size:987228   lines:12188  datasets:81  
+ 135  ensdf.135  [200803-201907]  size:1099251  lines:13571  datasets:81  
+ 136  ensdf.136  [201810-201810]  size:1430217  lines:17657  datasets:87  
+ 137  ensdf.137  [200709-201505]  size:945027   lines:11667  datasets:77  
+ 138  ensdf.138  [201711-201711]  size:1576179  lines:19459  datasets:90  
+ 139  ensdf.139  [201610-201610]  size:1588977  lines:19617  datasets:101 
+ 140  ensdf.140  [201812-202102]  size:1727406  lines:21326  datasets:105 
+ 141  ensdf.141  [201411-201802]  size:1212003  lines:14963  datasets:96  
+ 142  ensdf.142  [201108-202102]  size:1162026  lines:14346  datasets:80  
+ 143  ensdf.143  [201203-201203]  size:1198962  lines:14802  datasets:83  
+ 144  ensdf.144  [200108-201802]  size:1002618  lines:12378  datasets:93  
+ 145  ensdf.145  [200902-202102]  size:1145421  lines:14141  datasets:93  
+ 146  ensdf.146  [201609-202102]  size:1690227  lines:20867  datasets:86  
+ 147  ensdf.147  [200902-202102]  size:1613358  lines:19918  datasets:93  
+ 148  ensdf.148  [201404-201404]  size:1447389  lines:17869  datasets:94  
+ 149  ensdf.149  [200406-202102]  size:1554309  lines:19189  datasets:103 
+ 150  ensdf.150  [201306-202102]  size:1531629  lines:18909  datasets:100 
+ 151  ensdf.151  [200901-202001]  size:2061774  lines:25454  datasets:109 
+ 152  ensdf.152  [201311-202001]  size:2154114  lines:26594  datasets:102 
+ 153  ensdf.153  [202012-202012]  size:2149821  lines:26541  datasets:96  
+ 154  ensdf.154  [200910-201711]  size:1698327  lines:20967  datasets:84  
+ 155  ensdf.155  [201911-201911]  size:1879362  lines:23202  datasets:80  
+ 156  ensdf.156  [201210-201711]  size:1709343  lines:21103  datasets:85  
+ 157  ensdf.157  [201602-202106]  size:1618947  lines:19987  datasets:78  
+ 158  ensdf.158  [201704-201712]  size:1355292  lines:16732  datasets:84  
+ 159  ensdf.159  [201201-201704]  size:1222371  lines:15091  datasets:69  
+ 160  ensdf.160  [202108-202108]  size:1844856  lines:22776  datasets:78  
+ 161  ensdf.161  [201111-202102]  size:1401057  lines:17297  datasets:77  
+ 162  ensdf.162  [200708-201704]  size:1442448  lines:17808  datasets:84  
+ 163  ensdf.163  [201005-202102]  size:1814238  lines:22398  datasets:83  
+ 164  ensdf.164  [201712-202102]  size:1608903  lines:19863  datasets:88  
+ 165  ensdf.165  [200606-202106]  size:1570185  lines:19385  datasets:90  
+ 166  ensdf.166  [200804-201704]  size:1729107  lines:21347  datasets:87  
+ 167  ensdf.167  [200008-202102]  size:1251369  lines:15449  datasets:76  
+ 168  ensdf.168  [201008-202102]  size:1699542  lines:20982  datasets:84  
+ 169  ensdf.169  [200809-202102]  size:1500201  lines:18521  datasets:83  
+ 170  ensdf.170  [201811-202106]  size:2140749  lines:26429  datasets:86  
+ 171  ensdf.171  [201808-202102]  size:1686258  lines:20818  datasets:83  
+ 172  ensdf.172  [199509-202102]  size:1349379  lines:16659  datasets:93  
+ 173  ensdf.173  [199509-202102]  size:605880   lines:7480   datasets:66  
+ 174  ensdf.174  [199908-202102]  size:938142   lines:11582  datasets:76  
+ 175  ensdf.175  [200410-202102]  size:897723   lines:11083  datasets:64  
+ 176  ensdf.176  [200602-202102]  size:1241082  lines:15322  datasets:88  
+ 177  ensdf.177  [201909-201909]  size:2019006  lines:24926  datasets:65  
+ 178  ensdf.178  [200907-202102]  size:1301832  lines:16072  datasets:72  
+ 179  ensdf.179  [200902-202102]  size:1483515  lines:18315  datasets:68  
+ 180  ensdf.180  [201506-202102]  size:1554795  lines:19195  datasets:83  
+ 181  ensdf.181  [200601-201309]  size:1330587  lines:16427  datasets:63  
+ 182  ensdf.182  [201512-201512]  size:1738827  lines:21467  datasets:82  
+ 183  ensdf.183  [201604-201604]  size:1673460  lines:20660  datasets:71  
+ 184  ensdf.184  [201002-201309]  size:1424871  lines:17591  datasets:81  
+ 185  ensdf.185  [200601-201309]  size:1207143  lines:14903  datasets:59  
+ 186  ensdf.186  [200306-201309]  size:1023597  lines:12637  datasets:66  
+ 187  ensdf.187  [200905-201309]  size:1510002  lines:18642  datasets:67  
+ 188  ensdf.188  [201806-201806]  size:1604448  lines:19808  datasets:74  
+ 189  ensdf.189  [201704-202110]  size:1308393  lines:16153  datasets:73  
+ 190  ensdf.190  [202011-202011]  size:1387773  lines:17133  datasets:86  
+ 191  ensdf.191  [200710-202009]  size:1327347  lines:16387  datasets:71  
+ 192  ensdf.192  [201209-201209]  size:1391337  lines:17177  datasets:90  
+ 193  ensdf.193  [201709-201709]  size:1739475  lines:21475  datasets:78  
+ 194  ensdf.194  [202109-202109]  size:2383587  lines:29427  datasets:83  
+ 195  ensdf.195  [201408-201612]  size:938223   lines:11583  datasets:78  
+ 196  ensdf.196  [200706-201704]  size:1349055  lines:16655  datasets:83  
+ 197  ensdf.197  [200503-201512]  size:829197   lines:10237  datasets:95  
+ 198  ensdf.198  [201603-201603]  size:1166238  lines:14398  datasets:82  
+ 199  ensdf.199  [200703-201512]  size:682182   lines:8422   datasets:69  
+ 200  ensdf.200  [200707-201105]  size:745524   lines:9204   datasets:62  
+ 201  ensdf.201  [200703-201512]  size:485595   lines:5995   datasets:53  
+ 202  ensdf.202  [199704-201309]  size:572346   lines:7066   datasets:68  
+ 203  ensdf.203  [202109-202109]  size:710370   lines:8770   datasets:69  
+ 204  ensdf.204  [201002-201309]  size:914733   lines:11293  datasets:76  
+ 205  ensdf.205  [202006-202006]  size:924615   lines:11415  datasets:77  
+ 206  ensdf.206  [200805-201601]  size:871560   lines:10760  datasets:77  
+ 207  ensdf.207  [201102-201309]  size:821583   lines:10143  datasets:80  
+ 208  ensdf.208  [200707-201309]  size:1455246  lines:17966  datasets:102 
+ 209  ensdf.209  [201506-201507]  size:1151658  lines:14218  datasets:120 
+ 210  ensdf.210  [201408-201408]  size:825066   lines:10186  datasets:74  
+ 211  ensdf.211  [201306-201512]  size:525042   lines:6482   datasets:51  
+ 212  ensdf.212  [202009-202009]  size:556065   lines:6865   datasets:51  
+ 213  ensdf.213  [200704-201209]  size:240003   lines:2963   datasets:36  
+ 214  ensdf.214  [202106-202106]  size:546264   lines:6744   datasets:36  
+ 215  ensdf.215  [201312-201509]  size:295650   lines:3650   datasets:35  
+ 216  ensdf.216  [200705-201512]  size:192051   lines:2371   datasets:34  
+ 217  ensdf.217  [201802-201802]  size:260172   lines:3212   datasets:29  
+ 218  ensdf.218  [201911-202106]  size:256608   lines:3168   datasets:30  
+ 219  ensdf.219  [202106-202106]  size:439749   lines:5429   datasets:27  
+ 220  ensdf.220  [201104-201911]  size:291600   lines:3600   datasets:30  
+ 221  ensdf.221  [200705-201512]  size:204444   lines:2524   datasets:24  
+ 222  ensdf.222  [201111-201612]  size:155763   lines:1923   datasets:24  
+ 223  ensdf.223  [200110-201911]  size:360774   lines:4454   datasets:27  
+ 224  ensdf.224  [201512-201911]  size:293139   lines:3619   datasets:31  
+ 225  ensdf.225  [200905-201910]  size:345627   lines:4267   datasets:29  
+ 226  ensdf.226  [199604-201404]  size:179739   lines:2219   datasets:31  
+ 227  ensdf.227  [201602-201602]  size:511515   lines:6315   datasets:28  
+ 228  ensdf.228  [201403-201403]  size:574128   lines:7088   datasets:28  
+ 229  ensdf.229  [200810-201512]  size:386208   lines:4768   datasets:33  
+ 230  ensdf.230  [201209-201402]  size:462510   lines:5710   datasets:36  
+ 231  ensdf.231  [201306-201306]  size:529740   lines:6540   datasets:34  
+ 232  ensdf.232  [200610-200610]  size:315171   lines:3891   datasets:36  
+ 233  ensdf.233  [202012-202012]  size:872532   lines:10772  datasets:42  
+ 234  ensdf.234  [200704-200704]  size:530469   lines:6549   datasets:38  
+ 235  ensdf.235  [201411-201411]  size:484056   lines:5976   datasets:34  
+ 236  ensdf.236  [200610-201612]  size:290790   lines:3590   datasets:42  
+ 237  ensdf.237  [200608-200608]  size:498474   lines:6154   datasets:35  
+ 238  ensdf.238  [201507-201507]  size:756378   lines:9338   datasets:39  
+ 239  ensdf.239  [201411-201411]  size:409374   lines:5054   datasets:34  
+ 240  ensdf.240  [200810-201612]  size:519048   lines:6408   datasets:36  
+ 241  ensdf.241  [201506-201711]  size:404838   lines:4998   datasets:33  
+ 242  ensdf.242  [200206-201507]  size:266085   lines:3285   datasets:36  
+ 243  ensdf.243  [201408-201506]  size:248427   lines:3067   datasets:33  
+ 244  ensdf.244  [201711-202102]  size:551205   lines:6805   datasets:33  
+ 245  ensdf.245  [201102-201506]  size:206307   lines:2547   datasets:25  
+ 246  ensdf.246  [201108-201506]  size:253449   lines:3129   datasets:28  
+ 247  ensdf.247  [201503-201506]  size:187110   lines:2310   datasets:28  
+ 248  ensdf.248  [201411-201506]  size:159084   lines:1964   datasets:26  
+ 249  ensdf.249  [201108-201506]  size:381429   lines:4709   datasets:33  
+ 250  ensdf.250  [200112-201506]  size:224127   lines:2767   datasets:26  
+ 251  ensdf.251  [201309-201506]  size:249318   lines:3078   datasets:26  
+ 252  ensdf.252  [202103-202103]  size:110889   lines:1369   datasets:24  
+ 253  ensdf.253  [200607-201506]  size:145314   lines:1794   datasets:27  
+ 254  ensdf.254  [201902-201902]  size:179091   lines:2211   datasets:22  
+ 255  ensdf.255  [201309-201506]  size:99387    lines:1227   datasets:26  
+ 256  ensdf.256  [201704-202006]  size:103599   lines:1279   datasets:17  
+ 257  ensdf.257  [201309-201309]  size:64476    lines:796    datasets:19  
+ 258  ensdf.258  [201709-201709]  size:68445    lines:845    datasets:16  
+ 259  ensdf.259  [201309-201309]  size:49167    lines:607    datasets:16  
+ 260  ensdf.260  [199908-201603]  size:35316    lines:436    datasets:12  
+ 261  ensdf.261  [199911-201508]  size:89505    lines:1105   datasets:12  
+ 262  ensdf.262  [200112-200112]  size:34911    lines:431    datasets:12  
+ 263  ensdf.263  [199911-199911]  size:17577    lines:217    datasets:9   
+ 264  ensdf.264  [199908-200611]  size:17334    lines:214    datasets:7   
+ 265  ensdf.265  [199911-201511]  size:68931    lines:851    datasets:11  
+ 266  ensdf.266  [201902-201902]  size:51921    lines:641    datasets:13  
+ 267  ensdf.267  [200512-200601]  size:75411    lines:931    datasets:10  
+ 268  ensdf.268  [201902-201902]  size:17415    lines:215    datasets:6   
+ 269  ensdf.269  [200512-201511]  size:60345    lines:745    datasets:8   
+ 270  ensdf.270  [201902-201902]  size:36207    lines:447    datasets:9   
+ 271  ensdf.271  [200512-200601]  size:52488    lines:648    datasets:7   
+ 272  ensdf.272  [201902-201902]  size:34101    lines:421    datasets:4   
+ 273  ensdf.273  [200512-201511]  size:52245    lines:645    datasets:7   
+ 274  ensdf.274  [201902-201902]  size:15228    lines:188    datasets:7   
+ 275  ensdf.275  [200512-200512]  size:42444    lines:524    datasets:6   
+ 276  ensdf.276  [201902-201902]  size:13122    lines:162    datasets:3   
+ 277  ensdf.277  [200512-201511]  size:72333    lines:893    datasets:13  
+ 278  ensdf.278  [201902-201902]  size:20574    lines:254    datasets:8   
+ 279  ensdf.279  [200512-200512]  size:47223    lines:583    datasets:6   
+ 280  ensdf.280  [201902-201902]  size:10935    lines:135    datasets:4   
+ 281  ensdf.281  [200512-201511]  size:59616    lines:736    datasets:10  
+ 282  ensdf.282  [201902-201902]  size:20817    lines:257    datasets:8   
+ 283  ensdf.283  [200512-200601]  size:61884    lines:764    datasets:6   
+ 284  ensdf.284  [201902-201902]  size:23976    lines:296    datasets:6   
+ 285  ensdf.285  [200512-201511]  size:61479    lines:759    datasets:10  
+ 286  ensdf.286  [201902-201902]  size:21870    lines:270    datasets:7   
+ 287  ensdf.287  [200512-200512]  size:44388    lines:548    datasets:5   
+ 288  ensdf.288  [201902-201902]  size:122634   lines:1514   datasets:4   
+ 289  ensdf.289  [200512-201008]  size:57267    lines:707    datasets:8   
+ 290  ensdf.290  [201902-201902]  size:23895    lines:295    datasets:7   
+ 291  ensdf.291  [200512-200512]  size:34911    lines:431    datasets:3   
+ 292  ensdf.292  [201902-201902]  size:18873    lines:233    datasets:2   
+ 293  ensdf.293  [200512-201008]  size:52245    lines:645    datasets:6   
+ 294  ensdf.294  [201902-201902]  size:31995    lines:395    datasets:4   
+ 295  ensdf.295  [     0-     0]  size:0        lines:0      datasets:0   
+ 296  ensdf.296  [201902-201902]  size:1782     lines:22     datasets:1   
+ 297  ensdf.297  [     0-     0]  size:0        lines:0      datasets:0   
+ 298  ensdf.298  [201902-201902]  size:4941     lines:61     datasets:2   
+ 299  ensdf.299  [200904-200904]  size:4374     lines:54     datasets:2   
+ 300  ensdf.300  [201902-201902]  size:1701     lines:21     datasets:1   
+
+-------Summary of ENSDF files-------
+  Files:       300
+  Size:        245984769(~235M)
+  Lines:       3036849
+  Mass Chains: 298
+  Nuclides:    3408
+  Datasets:    19525
+  Dates:       199503-202110
+
+--------Summary of updating--------
+--Year  #Datasets #Files
+  2021  920       68  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+  2020  807       18  ||||||||||||||||||
+  2019  723       38  ||||||||||||||||||||||||||||||||||||||
+  2018  924       11  |||||||||||
+  2017  893       15  |||||||||||||||
+  2016  1079      26  ||||||||||||||||||||||||||
+  2015  1401      51  |||||||||||||||||||||||||||||||||||||||||||||||||||
+  2014  1224      14  ||||||||||||||
+  2013  1069      18  ||||||||||||||||||
+  2012  1393      7   |||||||
+  2011  1292      5   |||||
+  2010  1244      7   |||||||
+  2009  1215      3   |||
+  2008  1163      1   |
+  2007  1160      2   ||
+  2006  862       7   |||||||
+  2005  429       4   ||||
+  2004  227       -
+  2003  180       1   |
+  2002  227       -
+  2001  303       1   |
+  2000  211       -
+  1999  167       1   |
+  1998  116       -
+  1997  1         -
+  1996  77        -
+  1995  200       -
+
+---#Datasets by types---
+  10366 #Reactions#
+   4402 #Decay#
+   2239 ADOPTED LEVELS, GAMMAS        
+   1081 ADOPTED LEVELS                
+    701 COMMENTS                      
+    371 COULOMB EXCITATION            
+    226 REFERENCES                    
+     32 MUONIC ATOM                   
+     31 ADOPTED LEVELS:TENTATIVE      
+     20 ADOPTED LEVELS: TENTATIVE     
+     13 ADOPTED LEVELS:NOT OBSERVED   
+     12 ADOPTED LEVELS: NOT OBSERVED  
+      7 INELASTIC SCATTERING          
+      6 ADOPTED LEVELS:INFERRED       
+      4 ADOPTED LEVELS: Tentative     
+      2 COULOMB EXCITATION: PROJECTILE
+      1 NEUTRON RESONANCES            
+      1 MUONIC ATOM: PIONIC ATOM      
+      1 INELASTIC SCATTERING:GIANT RES
+      1 INELASTIC SCATTERING: GAMMAS  
+      1 COULOMB EXCITATION:PROJECTILE 
+      1 COULOMB EXCITATION:PRELIMINARY
+      1 COULOMB EXCITATION: LI        
+      1 COULOMB EXCITATION: HI        
+      1 ADOPTED LEVELS:UNOBSERVED     
+      1 ADOPTED LEVELS:NOT DETECTED   
+      1 ADOPTED LEVELS: NOT DETECTED  
+      1 ADOPTED LEVELS: ?             
+

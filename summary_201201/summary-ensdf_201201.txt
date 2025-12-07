@@ -1,0 +1,68 @@
+
+-------Summary of ENSDF files-------
+  Files:       300
+  Size:        239868135(~229M)
+  Lines:       2961335
+  Mass Chains: 298
+  Nuclides:    3351
+  Datasets:    19192
+  Dates:       199503-202011
+
+--------Summary of updating--------
+--Year  #Datasets #Files
+  2020  670       20  ||||||||||||||||||||
+  2019  728       41  |||||||||||||||||||||||||||||||||||||||||
+  2018  924       14  ||||||||||||||
+  2017  913       35  |||||||||||||||||||||||||||||||||||
+  2016  1083      29  |||||||||||||||||||||||||||||
+  2015  1419      70  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+  2014  1236      17  |||||||||||||||||
+  2013  1071      21  |||||||||||||||||||||
+  2012  1404      11  |||||||||||
+  2011  1301      7   |||||||
+  2010  1250      9   |||||||||
+  2009  1245      5   |||||
+  2008  1253      1   |
+  2007  1213      3   |||
+  2006  1035      8   ||||||||
+  2005  591       4   ||||
+  2004  292       -
+  2003  180       1   |
+  2002  227       -
+  2001  317       1   |
+  2000  211       -
+  1999  193       1   |
+  1998  116       -
+  1997  1         -
+  1996  80        -
+  1995  200       -
+
+---#Datasets by types---
+  10140 #Reactions#
+   4368 #Decay#
+   2227 ADOPTED LEVELS, GAMMAS        
+   1044 ADOPTED LEVELS                
+    675 COMMENTS                      
+    370 COULOMB EXCITATION            
+    237 REFERENCES                    
+     32 MUONIC ATOM                   
+     32 ADOPTED LEVELS:TENTATIVE      
+     20 ADOPTED LEVELS: TENTATIVE     
+     12 ADOPTED LEVELS: NOT OBSERVED  
+     10 ADOPTED LEVELS:NOT OBSERVED   
+      7 INELASTIC SCATTERING          
+      4 ADOPTED LEVELS: Tentative     
+      2 COULOMB EXCITATION: PROJECTILE
+      1 NEUTRON RESONANCES            
+      1 MUONIC ATOM: PIONIC ATOM      
+      1 INELASTIC SCATTERING:GIANT RES
+      1 INELASTIC SCATTERING: GAMMAS  
+      1 COULOMB EXCITATION:PROJECTILE 
+      1 COULOMB EXCITATION:PRELIMINARY
+      1 COULOMB EXCITATION: LI        
+      1 COULOMB EXCITATION: HI        
+      1 ADOPTED LEVELS:UNOBSERVED     
+      1 ADOPTED LEVELS:NOT DETECTED   
+      1 ADOPTED LEVELS: NOT DETECTED  
+      1 ADOPTED LEVELS: ?             
+
