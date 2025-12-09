@@ -1,33 +1,14 @@
-        ##  
-       ###  
-        ##  
-        ##  
-        ##  
-        ##  
-      ######
+
 ---Error:[3-May-20171] 26MG    ADOPTED LEVELS, GAMMAS                                  16NDS    201604
  26MG  H TYP=ERR$AUT=M.S.BASUNIA$DAT=3-May-20171$COM=Added data from corrected  
 
 
-       #### 
-      ##  ##
-      ##  ##
-         ## 
-       ##   
-      ##  ##
-      ######
+
 ---Error:[3-May-20171] 26MG    26MG(A,A'G),22NE(A,N)         1975NA06,1975WA10,1991HA0616NDS    201604
  26MG  H TYP=ERR$AUT=M.S.BASUNIA$DAT=3-May-20171$COM=Added data from 2001Ja15   
 
 
 
-       #### 
-      ##  ##
-          ##
-        ### 
-          ##
-      ##  ##
-       #### 
 ---ERROR:Wrong-flags789:[2L ] card-352:[ 70GE 2L $B(E1)=0.8 {I2}]
 ---Dataset card-1:
  70GE    ADOPTED LEVELS, GAMMAS                                  16NDS    201609
@@ -35,7 +16,6 @@
 EVALUATED NUCLEAR STRUCTURE DATA FILE               SYNTAX CHECK          FMTCHK version 10.4d AS OF 29-Nov-2018     PAGE    1
          ....:....1....:....2....:....3....:....4....:....5....:....6....:....7....:....8
          ---------+---------+-+-------+-+-------+-+-------+-----+------+-+---------+-++-+
-
      1.   70GE    ADOPTED LEVELS, GAMMAS                                  16NDS    201609
    352.   70GE 2L $B(E1)=0.8 {I2}                                                        
                *                                                                           <F> INVALID COMMENT TYPE
