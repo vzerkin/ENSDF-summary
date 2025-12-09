@@ -1,0 +1,229 @@
+---ENSDF files statistics.
+---by V.Zerkn, 2025
+---Generated: 2025-12-09,22:53:22
+---Computer:  NUCBOX_K8PLUS
+---Directory: ensdf_251201
+
+-------Summary of ENSDF files-------
+  Files:       300
+  Size:        263660513(~252M)
+  Lines:       3274913
+  Mass Chains: 299
+  Nuclides:    3443
+  Datasets:    20088
+
+--------Summary of updating--------
+--Year  #Files
+  2025  15    |||||||||||||||
+  2024  9     |||||||||
+  2023  32    ||||||||||||||||||||||||||||||||
+  2022  41    |||||||||||||||||||||||||||||||||||||||||
+  2021  71    |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+  2020  14    ||||||||||||||
+  2019  27    |||||||||||||||||||||||||||
+  2018  4     ||||
+  2017  13    |||||||||||||
+  2016  17    |||||||||||||||||
+  2015  29    |||||||||||||||||||||||||||||
+  2014  10    ||||||||||
+  2013  8     ||||||||
+  2012  3     |||
+  2011  2     ||
+  2010  1     |
+  2006  1     |
+  2003  1     |
+  1999  1     |
+--Year  #Datasets
+  2025  455   ||||||||||||||||||||||O
+  2024  691   ||||||||||||||||||||||||||||||||||O
+  2023  961   ||||||||||||||||||||||||||||||||||||||||||||||||O
+  2022  1217  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||O
+  2021  1277  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||O
+  2020  803   ||||||||||||||||||||||||||||||||||||||||O
+  2019  678   |||||||||||||||||||||||||||||||||O
+  2018  720   |||||||||||||||||||||||||||||||||||O
+  2017  1015  ||||||||||||||||||||||||||||||||||||||||||||||||||O
+  2016  825   |||||||||||||||||||||||||||||||||||||||||O
+  2015  1486  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||O
+  2014  747   |||||||||||||||||||||||||||||||||||||O
+  2013  1091  ||||||||||||||||||||||||||||||||||||||||||||||||||||||O
+  2012  1073  |||||||||||||||||||||||||||||||||||||||||||||||||||||O
+  2011  630   |||||||||||||||||||||||||||||||O
+  2010  824   |||||||||||||||||||||||||||||||||||||||||O
+  2009  1206  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||O
+  2008  1274  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||O
+  2007  563   ||||||||||||||||||||||||||||O
+  2006  610   ||||||||||||||||||||||||||||||O
+  2005  411   ||||||||||||||||||||O
+  2004  364   ||||||||||||||||||O
+  2003  8     O
+  2002  86    ||||O
+  2001  293   ||||||||||||||O
+  2000  162   ||||||||O
+  1999  37    |O
+  1998  150   |||||||O
+  1997  30    |O
+  1996  27    |O
+  1995  40    |O
+  1994  42    ||O
+  1993  74    |||O
+  1992  53    ||O
+  1991  1     O
+  1990  135   ||||||O
+  1985  2     O
+  1980  9     O
+  1976  3     O
+
+---#Datasets by Types---
+  10911 #Reactions#
+   4471 #Decay#
+   2290 ADOPTED LEVELS, GAMMAS        
+   1053 ADOPTED LEVELS                
+    652 COMMENTS                      
+    396 COULOMB EXCITATION            
+    168 REFERENCES                    
+     39 ADOPTED LEVELS:TENTATIVE      
+     31 MUONIC ATOM                   
+     24 ADOPTED LEVELS:UNOBSERVED     
+     17 ADOPTED LEVELS:NOT OBSERVED   
+     10 ADOPTED LEVELS:INFERRED       
+      7 INELASTIC SCATTERING          
+      6 ADOPTED LEVELS: NOT OBSERVED  
+      3 ADOPTED LEVELS: TENTATIVE     
+      2 INELASTIC SCATTERING:GIANT RES
+      1 NEUTRON RESONANCES            
+      1 MUONIC ATOM: PIONIC ATOM      
+      1 INELASTIC SCATTERING: GAMMAS  
+      1 COULOMB EXCITATION:PROJECTILE 
+      1 COULOMB EXCITATION:PRELIMINARY
+      1 COULOMB EXCITATION: PROJECTILE
+      1 COULOMB EXCITATION: LI        
+      1 COULOMB EXCITATION: HI        
+
+---#Datasets by Authors---
+   1672 Balraj Singh
+   1601 Balraj Singh+
+    951 N.Nica
+    922 Jun Chen
+    896 J.H.Kelley+
+    894 M.S.Basunia
+    872 Coral M.Baglin
+    828 E.Browne+
+    791 Jun Chen+
+    764 Jean Blachot
+    559 F.G.Kondev
+    410 M.S.Basunia+
+    331 E.A.Mccutchan
+    292 S.K.Basu+
+    288 Yu.Khazov+
+    266 C.D.Nesaraja
+    261 J.K.Tuli
+    251 D.Abriola+
+    233 Huang Xiaolong+
+    224 Yang Dong+
+    217 T.D.Johnson+
+    205 S.-C.Wu
+    196 C.W.Reich
+    189 G.G~Urdal+
+    187 Ninel Nica+
+    185 S.Lalkovski+
+    165 M.J.Martin
+    156 C.D.Nesaraja+
+    149 F.G.Kondev+
+    146 D.De Frenne
+    143 A.A.Sonzogni
+    142 C.Morse
+    141 T.W.Burrows
+    141 Huo Junde
+    125 Huo Junde+
+    111 A.Negret+
+    108 E.A.Mccutchan+
+    106 J.Chen+
+    100 Wang Jimin+
+    100 P.K.Joshi+
+     98 S.Kumar+
+     98 J.K.Tuli+
+     97 N.Nica+
+     96 B.Singh+
+     94 S.Ota+
+     91 H.Iimura+
+     89 Janos Timar+
+     87 Hu+
+     86 C.G.Sheu+
+     84 C.M.Baglin+
+     82 J.Katakura+
+     82 F.Ajzenberg-Selove+
+     82 Ameenah R.Farhan+
+     81 S.Ohya
+     81 Coral M.Baglin+
+     75 Zoltan Elekes+
+     75 J.Katakura
+     75 J.C.Batchelder+
+     75 Caroline D.Nesaraja+
+     75 Alexandru Negret+
+     73 M.R.Bhat
+     73 D.De Frenne+
+     73 C.J.Chiara+
+     72 T.Tamura
+     72 A.Hashizume
+     70 John Cameron+
+     70 Huang Xiaolong
+     68 F.Ajzenberg-Selove
+     63 R.B.Firestone
+     63 K.Kitao+
+     63 D.M.Symochko+
+     60 C.W.Reich+
+     57 E.Achterberg+
+     51 K.Auranen+
+     51 E.Browne
+     48 Kazimierz Zuber+
+     48 B.Singh
+     47 Tilley+
+     42 K.Kitao
+     42 J.E.Purcell+
+     41 Shaofei Zhu
+     41 J.H.Kelley
+     39 M.J.Martin+
+     36 Shaofei Zhu+
+     32 V.S.Shirley
+     32 G.C.Sheu+
+     31 D.R.Tilley+
+     27 Khalifeh Abusaleem
+     27 ICTP-2014 Workshop Group
+     27 Balraj Singh et al.
+     26 Y.Akovali
+     25 R.Spitzer+
+     24 Y.A.Akovali
+     24 A.M.Mattera+
+     22 A.A.Sonzogni+
+     16 Agda Artna-Cohen
+     14 J.Kelley
+     14 J.Blachot
+     14 Ashok Jain+
+     13 M.S.Narijauskas+
+     13 A.K.Jain+
+     12 Tibor Kibedi+
+      9 K.Setoodehnia+
+      7 M.Gupta
+      7 A.Sonzogni+
+      6 D.Mondal
+      6 B.Maheshwari
+      5 X.Hu+
+      5 K.Abu Saleem+
+      4 T.Kibedi+
+      4 K.Vijay Sai
+      4 J.Y.Lee
+      3 A.Negret
+      2 T.Burrows
+      2 M.Trudel+
+      1 Zhou Chunmei
+      1 V.Chechev
+      1 T.D.Johnson
+      1 S.Basunia
+      1 R.Helmer
+      1 ICTP-2016 Workshop Group
+      1 IAEA-ICTP 2012 Workshop Group
+      1 ENSDD-2012+
+      1 C.D.Nesarajacit=Ensdf
+      1 Bucharest Workshop Group
+

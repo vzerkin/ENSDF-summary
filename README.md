@@ -2,7 +2,9 @@
 _by V.Zerkin, 2025_
 
 ### Introdiuction
-Summary reports are generated on ENSDF-Archive files using on Dataset-records.
+Summary reports are generated on ENSDF-Archive files using on Dataset Identification-records.
+New version of statistics uses dates from History records,
+see [new-summary_2025-12-01](new-summary_2025-12-01).
 
 ### Links
 
