@@ -1,8 +1,10 @@
 ---ENSDF files statistics.
 ---by V.Zerkn, 2025
----Generated: 2025-12-10,11:09:03
+---Generated: 2025-12-10,11:31:35
 ---Computer:  zerkin-VirtualBox
 ---Directory: ensdf_251201
+---MassChain: 299
+---Nuclides:  3443
 ---Datasets:  20093
 
 ---#Datasets by 1st Author---
@@ -74,12 +76,12 @@
      25 R.Spitzer
      24 Y.A.Akovali
      24 A.M.Mattera
+     16 Tibor Kibedi
      16 Agda Artna-Cohen
      14 J.Blachot
      14 Ashok Jain
      13 M.S.Narijauskas
      13 A.K.Jain
-     12 Tibor Kibedi
       9 K.Setoodehnia
       7 M.Gupta
       7 A.Sonzogni
@@ -87,7 +89,6 @@
       6 B.Maheshwari
       5 X.Hu
       5 K.Abu Saleem
-      4 T.Kibedi
       4 K.Vijay Sai
       4 J.Y.Lee
       2 T.Burrows

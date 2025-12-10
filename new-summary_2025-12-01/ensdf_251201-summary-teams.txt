@@ -1,8 +1,10 @@
 ---ENSDF files statistics.
 ---by V.Zerkn, 2025
----Generated: 2025-12-10,11:09:03
+---Generated: 2025-12-10,11:31:35
 ---Computer:  zerkin-VirtualBox
 ---Directory: ensdf_251201
+---MassChain: 299
+---Nuclides:  3443
 ---Datasets:  20093
 
 ---#Datasets by 1st Author---
@@ -160,7 +162,7 @@
       5 D.Abriola, P.Demetriou, M.Hassanvand, M.Hussain
       5 D.Abriola, M.Galan
       5 Balraj Singh, N.Nica
-      4 T.Kibedi, J.Timar
+      4 Tibor Kibedi, J.Timar
       4 T.D.Johnson, Y.Jun Chen, S.Enkhbold, G.Khalil, B.Yang
       4 S.Kumar, Balraj Singh, K.Rojeeta Devi, A.Rohilla
       4 K.Vijay Sai
