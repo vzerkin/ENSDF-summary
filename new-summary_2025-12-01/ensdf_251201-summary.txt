@@ -1,6 +1,6 @@
 ---ENSDF files statistics.
 ---by V.Zerkn, 2025
----Generated: 2025-12-10,13:26:45
+---Generated: 2025-12-10,13:49:08
 ---Computer:  zerkin-VirtualBox
 ---Directory: ensdf_251201
 
@@ -215,4 +215,5 @@
       1 IAEA-ICTP 2012 Workshop Group
       1 ENSDD-2012+
       1 Bucharest Workshop Group
-#Total: 114
+------- -----
+  19859 114

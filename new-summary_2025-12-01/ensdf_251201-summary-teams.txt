@@ -1,6 +1,6 @@
 ---ENSDF files statistics.
 ---by V.Zerkn, 2025
----Generated: 2025-12-10,13:26:57
+---Generated: 2025-12-10,13:49:23
 ---Computer:  zerkin-VirtualBox
 ---Directory: ensdf_251201
 ---MassChain: 299
@@ -207,4 +207,5 @@
       1 Balraj Singh, Jun Chen, A.R.Farhan
       1 Balraj Singh, J.K.Tuli
       1 Balraj Singh, J.H.Kelley
-#Total: 199
+------- -----
+  19859 199
