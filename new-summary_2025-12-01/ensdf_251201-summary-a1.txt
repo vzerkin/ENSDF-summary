@@ -1,6 +1,6 @@
 ---ENSDF files statistics.
 ---by V.Zerkn, 2025
----Generated: 2025-12-10,11:31:35
+---Generated: 2025-12-10,13:26:57
 ---Computer:  zerkin-VirtualBox
 ---Directory: ensdf_251201
 ---MassChain: 299
@@ -17,7 +17,7 @@
     879 E.Browne
     764 Jean Blachot
     706 F.G.Kondev
-    497 C.D.Nesaraja
+    498 C.D.Nesaraja
     439 E.A.Mccutchan
     354 J.K.Tuli
     303 Huang Xiaolong
@@ -35,10 +35,10 @@
     189 A.Negret
     185 S.Lalkovski
     178 C.Morse
-    165 A.A.Sonzogni
+    172 A.A.Sonzogni
     157 J.Katakura
     150 F.Ajzenberg-Selove
-    141 T.W.Burrows
+    143 T.W.Burrows
     105 K.Kitao
     100 Wang Jimin
     100 P.K.Joshi
@@ -84,14 +84,12 @@
      13 A.K.Jain
       9 K.Setoodehnia
       7 M.Gupta
-      7 A.Sonzogni
       6 D.Mondal
       6 B.Maheshwari
       5 X.Hu
       5 K.Abu Saleem
       4 K.Vijay Sai
       4 J.Y.Lee
-      2 T.Burrows
       2 M.Trudel
       1 Zhou Chunmei
       1 V.Chechev
@@ -100,5 +98,5 @@
       1 ICTP-2016 Workshop Group
       1 IAEA-ICTP 2012 Workshop Group
       1 ENSDD-2012
-      1 C.D.Nesarajacit=Ensdf
       1 Bucharest Workshop Group
+#Total: 91

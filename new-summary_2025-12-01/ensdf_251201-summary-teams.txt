@@ -1,13 +1,13 @@
 ---ENSDF files statistics.
 ---by V.Zerkn, 2025
----Generated: 2025-12-10,11:31:35
+---Generated: 2025-12-10,13:26:57
 ---Computer:  zerkin-VirtualBox
 ---Directory: ensdf_251201
 ---MassChain: 299
 ---Nuclides:  3443
 ---Datasets:  20093
 
----#Datasets by 1st Author---
+---#Datasets by Teams---
    1713 Balraj Singh
    1029 Balraj Singh, Jun Chen
     951 N.Nica
@@ -19,7 +19,7 @@
     733 Jun Chen, Balraj Singh
     557 F.G.Kondev
     331 E.A.Mccutchan
-    266 C.D.Nesaraja
+    267 C.D.Nesaraja
     256 J.K.Tuli
     241 D.Abriola, A.A.Sonzogni
     224 Yang Dong, Huo Junde
@@ -36,8 +36,8 @@
     156 J.H.Kelley, C.G.Sheu
     155 Huang Xiaolong, Kang Mengxiao
     146 D.De Frenne
+    143 T.W.Burrows
     143 A.A.Sonzogni
-    141 T.W.Burrows
     141 Huo Junde
     139 J.H.Kelley, J.E.Purcell, C.G.Sheu
     135 C.D.Nesaraja, E.A.Mccutchan
@@ -172,16 +172,15 @@
       4 Balraj Singh, Boris Pritychenko
       4 Balraj Singh, A.Chakraborty, S.Bhattacharya
       4 Balraj Singh, A.Chakraborty
-      4 A.Sonzogni, G.Mukherjee, H.Huang, A.Tarazaga,
+      4 A.A.Sonzogni, G.Mukherjee, H.Huang, A.Tarazaga,
       3 S.Kumar, F.G.Kondev
       3 E.A.Mccutchan, S.K.Rathi, S.Garg
       3 E.A.Mccutchan, J.Lee, N.Jovancevic
       3 Balraj Singh, T.Roy, K.Banerjee
       3 Balraj Singh, S.Singh
       3 Balraj Singh, K.Zuber
-      3 A.Sonzogni, G.Mukherjee, H.Huang, A.Tarazaga, J.Wang
       3 A.Negret
-      2 T.Burrows
+      3 A.A.Sonzogni, G.Mukherjee, H.Huang, A.Tarazaga, J.Wang
       2 M.Trudel,L.A.Bernstein
       2 J.K.Tuli,Balraj Singh
       2 J.H.Kelley, J.L.Godwin
@@ -204,8 +203,8 @@
       1 D.R.Tilley, J.H.Kelley, J.L.Godwin, D.J Millener et al.
       1 D.R.Tilley, et al
       1 D.R.Tilley, C.Cheves, J.H.Kelley, S.Raman, H.
-      1 C.D.Nesarajacit=Ensdf
       1 Bucharest Workshop Group
       1 Balraj Singh, Jun Chen, A.R.Farhan
       1 Balraj Singh, J.K.Tuli
       1 Balraj Singh, J.H.Kelley
+#Total: 199
