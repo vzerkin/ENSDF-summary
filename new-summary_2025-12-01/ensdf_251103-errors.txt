@@ -1,3 +1,8 @@
+---ENSDF files statistics.
+---by V.Zerkn, 2025
+---Generated: 2025-12-09,22:53:22
+---Computer:  NUCBOX_K8PLUS
+---Directory: ensdf_251103
 
 ---Error:[3-May-20171] 26MG    ADOPTED LEVELS, GAMMAS                                  16NDS    201604
  26MG  H TYP=ERR$AUT=M.S.BASUNIA$DAT=3-May-20171$COM=Added data from corrected  

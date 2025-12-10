@@ -1,0 +1,209 @@
+---ENSDF files statistics.
+---by V.Zerkn, 2025
+---Generated: 2025-12-10,11:09:03
+---Computer:  zerkin-VirtualBox
+---Directory: ensdf_251201
+---Datasets:  20093
+
+---#Datasets by 1st Author---
+   1713 Balraj Singh
+   1029 Balraj Singh, Jun Chen
+    951 N.Nica
+    922 Jun Chen
+    872 Coral M.Baglin
+    844 M.S.Basunia
+    765 E.Browne, J.K.Tuli
+    764 Jean Blachot
+    733 Jun Chen, Balraj Singh
+    557 F.G.Kondev
+    331 E.A.Mccutchan
+    266 C.D.Nesaraja
+    256 J.K.Tuli
+    241 D.Abriola, A.A.Sonzogni
+    224 Yang Dong, Huo Junde
+    211 J.H.Kelley, C.G.Sheu, J.E.Purcell
+    205 S.-C.Wu
+    196 C.W.Reich
+    186 N.Nica, Balraj Singh
+    178 C.Morse
+    176 A.Negret, Balraj Singh
+    165 M.J.Martin
+    164 M.S.Basunia, Anagha Chakraborty
+    164 M.S.Basunia, A.Chakraborty
+    158 J.H.Kelley, C.G.Sheu, J.L.Godwin, et al.
+    156 J.H.Kelley, C.G.Sheu
+    155 Huang Xiaolong, Kang Mengxiao
+    146 D.De Frenne
+    143 A.A.Sonzogni
+    141 T.W.Burrows
+    141 Huo Junde
+    139 J.H.Kelley, J.E.Purcell, C.G.Sheu
+    135 C.D.Nesaraja, E.A.Mccutchan
+    121 Balraj Singh, Huang Xiaolong, Wang Xianghan
+    108 S.K.Basu, E.A.Mccutchan
+    106 Jun Chen, F.G.Kondev
+    103 J.H.Kelley, G.C.Sheu
+    101 S.Lalkovski, F.G.Kondev
+    100 Wang Jimin, Huang Xiaolong
+    100 P.K.Joshi, Balraj Singh, S.Singh, A.K.Jain
+     99 Balraj Singh, Jun Chen, Ameenah R.Farhan
+     97 G.G~Urdal, E.A.Mccutchan
+     94 S.Ota, E.A.Mccutchan
+     93 N.Nica, John Cameron, Balraj Singh
+     93 E.A.Mccutchan, A.A.Sonzogni
+     92 S.K.Basu, G.Mukherjee, A.A.Sonzogni
+     92 S.K.Basu, A.A.Sonzogni
+     92 G.G~Urdal, F.G.Kondev
+     91 S.Kumar, Jun Chen, F.G.Kondev
+     91 H.Iimura, J.Katakura, S.Ohya
+     89 Janos Timar, Zoltan Elekes, Balraj Singh
+     84 S.Lalkovski, J.Timar, Z.Elekes
+     84 C.M.Baglin, E.A.Mccutchan, S.Basunia
+     82 Yu.Khazov, A.Rodionov, G.Shulyak
+     82 M.S.Basunia, A.M.Hurst
+     82 J.Katakura, Z.D.Wu
+     82 Ameenah R.Farhan, Balraj Singh
+     81 S.Ohya
+     81 F.Ajzenberg-Selove, J.H.Kelley, C.D.Nesaraja
+     81 Coral M.Baglin, E.A.Mccutchan
+     78 Huang Xiaolong, Zhou Chunmei
+     77 J.K.Tuli, E.Browne
+     75 Zoltan Elekes, Janos Timar
+     75 T.D.Johnson, D.Symochko, M.Fadil, J.K.Tuli
+     75 J.Katakura
+     75 J.C.Batchelder, A.M.Hurst, M.S.Basunia
+     75 C.D.Nesaraja, Scott D.Geraedts, Balraj Singh
+     74 T.D.Johnson, W.D.Kulp
+     74 F.G.Kondev, S.Juutinen, D.J.Hartley
+     73 M.R.Bhat
+     73 F.G.Kondev, S.Lalkovski
+     73 D.De Frenne, A.Negret
+     73 C.J.Chiara, F.G.Kondev
+     72 T.Tamura
+     72 A.Hashizume
+     71 Huo Junde, Huo Su, Yang Dong
+     70 Yu.Khazov, I.Mitropolsky, A.Rodionov
+     70 John Cameron, Jun Chen, Balraj Singh, N.Nica
+     70 Huang Xiaolong
+     70 Balraj Singh, Alexander A.Rodionov, Yuri L.Khazov
+     69 Jin Wu
+     68 Yu.Khazov, A.Rodionov, F.G.Kondev
+     68 Yu.Khazov, A.A.Rodionov, S.Sakharov, Balraj Singh
+     68 J.H.Kelley, J.L.Godwin, C.G.Sheu
+     68 F.Ajzenberg-Selove
+     64 T.D.Johnson, Balraj Singh
+     64 Balraj Singh, Michael Birch
+     63 R.B.Firestone
+     63 K.Kitao, Y.Tendow, A.Hashizume
+     63 E.Browne, Huo Junde
+     63 D.M.Symochko, E.Browne, J.K.Tuli
+     63 Balraj Singh, Ameenah R.Farhan
+     61 C.G.Sheu,J.H.Kelley,J.Purcell
+     60 C.W.Reich, Balraj Singh
+     58 Jun Chen, John Cameron, Balraj Singh
+     57 E.Achterberg, O.A.Capurro, G.V.Marti
+     54 Huo Junde, Huang Xiaolong, J.K.Tuli
+     53 J.H.Kelley, D.R.Tilley, H.R.Weller, C.M.Cheves
+     51 K.Auranen, E.A.Mccutchan
+     51 E.Browne
+     48 Kazimierz Zuber, Balraj Singh
+     47 Tilley, Weller, Cheves, Chasteler
+     47 Hu, Tilley, Kelley, Godwin et al.
+     42 K.Kitao
+     42 Balraj Singh, J.K.Tuli,  E.Browne
+     41 Shaofei Zhu
+     40 J.E.Purcell, C.G.Sheu
+     40 Hu, Tilley, Kelley et al.
+     39 M.J.Martin, C.D.Nesaraja
+     39 Balraj Singh, Jagdish K.Tuli, Edgardo Browne
+     36 Shaofei Zhu, E.A.Mccutchan
+     32 V.S.Shirley
+     32 G.C.Sheu, J.H.Kelley
+     29 Balraj Singh, Sukhjeet Singh
+     28 D.R.Tilley, C.Cheves, J.H.Kelley, S.Raman, H.Weller
+     27 Khalifeh Abusaleem
+     27 ICTP-2014 Workshop Group
+     27 Balraj Singh et al.
+     26 Y.Akovali
+     25 R.Spitzer, J.H.Kelley
+     25 C.G.Sheu, J.H.Kelley
+     24 Y.A.Akovali
+     24 Balraj Singh, M.S.Basunia, Jun Chen et al.
+     24 A.M.Mattera, S.Zhu, A.B.Hayes, E.A.Mccutchan
+     21 J.H.Kelley, B.Grees
+     21 C.D.Nesaraja, Balraj Singh
+     21 Balraj Singh, M.S.Basunia, Murray Martin et al.
+     18 J.H.Kelley
+     16 Balraj Singh, A.Negret, K.Zuber
+     16 Agda Artna-Cohen
+     14 J.Blachot
+     14 Ashok Jain, Sukhjeet Singh, Suresh Kumar, Jagdish Tuli
+     13 M.S.Narijauskas, J.H.Kelley, C.G.Sheu
+     13 A.K.Jain, R.Raut, J.K.Tuli
+     12 Tibor Kibedi, Coral M.Baglin
+     12 A.A.Sonzogni, M.Fadil, B.Pfeiffer
+     10 J.K.Tuli, A.Luca, S.Juutinen, Balraj Singh
+     10 Balraj Singh, S.Singh, H.X.Nguyen, M.Patial
+     10 A.Negret, A.A.Sonzogni
+     10 A.A.Sonzogni, Balraj Singh
+      9 K.Setoodehnia, J.H.Kelley, J.E.Purcell
+      9 J.K.Tuli, P.Blokhin, J.Kaur, J.Y.Lee, N.Sharma
+      9 J.H.Kelley, T.Truong, C.G.Sheu
+      9 E.A.Mccutchan, C.M.Baglin, O.Gorbachenko, N.Todorovic
+      7 M.Gupta
+      6 J.H.Kelley, J.E.Purcell
+      6 D.Mondal
+      6 B.Maheshwari
+      5 X.Hu, D.R.Tilley, J.H.Kelley
+      5 N.Nica, M.Bostan
+      5 K.Abu Saleem, Z.Wu, S.Chaudhury, D, Bernard, E.Browne
+      5 D.Abriola, P.Demetriou, M.Hassanvand, M.Hussain
+      5 D.Abriola, M.Galan
+      5 Balraj Singh, N.Nica
+      4 T.Kibedi, J.Timar
+      4 T.D.Johnson, Y.Jun Chen, S.Enkhbold, G.Khalil, B.Yang
+      4 S.Kumar, Balraj Singh, K.Rojeeta Devi, A.Rohilla
+      4 K.Vijay Sai
+      4 J.Y.Lee
+      4 J.H.Kelley, J.Shuman
+      4 Balraj Singh, R.Shearman
+      4 Balraj Singh, Boris Pritychenko
+      4 Balraj Singh, A.Chakraborty, S.Bhattacharya
+      4 Balraj Singh, A.Chakraborty
+      4 A.Sonzogni, G.Mukherjee, H.Huang, A.Tarazaga,
+      3 S.Kumar, F.G.Kondev
+      3 E.A.Mccutchan, S.K.Rathi, S.Garg
+      3 E.A.Mccutchan, J.Lee, N.Jovancevic
+      3 Balraj Singh, T.Roy, K.Banerjee
+      3 Balraj Singh, S.Singh
+      3 Balraj Singh, K.Zuber
+      3 A.Sonzogni, G.Mukherjee, H.Huang, A.Tarazaga, J.Wang
+      3 A.Negret
+      2 T.Burrows
+      2 M.Trudel,L.A.Bernstein
+      2 J.K.Tuli,Balraj Singh
+      2 J.H.Kelley, J.L.Godwin
+      2 J.E.Purcell, J.H.Kelley, G.C.Sheu
+      2 F.G.Kondev, S.Kumar
+      2 Balraj Singh, Scott Geraedts
+      2 Balraj Singh, A.A.Sonzogni
+      1 Zhou Chunmei
+      1 V.Chechev
+      1 T.D.Johnson
+      1 S.Basunia
+      1 R.Helmer
+      1 J.H.Kelley, G.Sheu
+      1 J.H.Kelley, et al.
+      1 J.H.Kelley, D.R.Tilley, H.R.Weller, G.M.Hale
+      1 ICTP-2016 Workshop Group
+      1 IAEA-ICTP 2012 Workshop Group
+      1 F.Ajzenberg-Selove, C.D.Nesaraja, J.H.Kelley
+      1 ENSDD-2012, Kolkata Workshop Group
+      1 D.R.Tilley, J.H.Kelley, J.L.Godwin, D.J Millener et al.
+      1 D.R.Tilley, et al
+      1 D.R.Tilley, C.Cheves, J.H.Kelley, S.Raman, H.
+      1 C.D.Nesarajacit=Ensdf
+      1 Bucharest Workshop Group
+      1 Balraj Singh, Jun Chen, A.R.Farhan
+      1 Balraj Singh, J.K.Tuli
+      1 Balraj Singh, J.H.Kelley

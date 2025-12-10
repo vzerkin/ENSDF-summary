@@ -15539,70 +15539,75 @@
 174PT    (HI,XNG)                      1991DR03                  99NDS    199908|19981101|FUL|E.Browne+
 174AU    ADOPTED LEVELS                                          99NDS    199908|19981101|FUL|E.Browne+
 174HG    ADOPTED LEVELS                                          99NDS    199908|20070716|ERR|J.Tuli
-175      COMMENTS                                                04NDS    200410|20041001
-175      REFERENCES                                              04NDS    200410|20041001
-175DY    COMMENTS                                                ENSDF    202102|20210131|FUL|Balraj Singh
-175DY    ADOPTED LEVELS                                          ENSDF    202102|20210131|FUL|Balraj Singh
-175HO    COMMENTS                                                ENSDF    201711|20170220|FUL|Filip G Kondev
-175HO    ADOPTED LEVELS                                          ENSDF    201711|20130930|FUL|Balraj Singh+
-175ER    ADOPTED LEVELS                                          04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175TM    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175TM    175ER B- DECAY                1996ZH03                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175TM    176YB(POL T,A)                1979LO09                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175YB    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20050131|UPD|M.S.Basunia
-175YB    175TM B- DECAY                1970JA20,1969FU03         04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175YB    174YB(N,G) E=THERMAL          1971AL27,1971BR17         04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175YB    174YB(D,P),176YB(D,T)         1979TA04                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175YB    176YB(3HE,A)                  1971BU01                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175YB    176YB(48CA,XG),176YB(154SM,XG)1999AS05,1997LE11,1997LE1004NDS    200410|20050131|UPD|M.S.Basunia
-175LU    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20161128|ERR|M.S.Basunia
-175LU    175YB B- DECAY                1994MI04,1971GR41,1970BR3804NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175LU    175HF EC DECAY                1988SI22,1969JO16,1956HA6804NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175LU    174YB(3HE,D)                  1971ON02                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175LU    174YB(A,T)                    1971ON02                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175LU    175LU(G,G')                   1997HE16,1962DE02         04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175LU    175LU(N,N'G)                  2004GA04                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175LU    175LU(238U,238U'G)            1998WH02                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175LU    COULOMB EXCITATION            1981SK01,1978BR20,1959EL4204NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175LU    176YB(P,2NG)                  1974WI06,1974FO01         04NDS    200410|20070705|ERR|J.Tuli
-175LU    176LU(D,T)                    1971MI01                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175HF    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20070706|ERR|J.Tuli
-175HF    175TA EC DECAY                1971GA38,1960HA18         04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175HF    130TE(48CA,3NG)               2004SC41,1995GJ01,1990GJ0104NDS    200410|20050131|UPD|M.S.Basunia
-175HF    170ER(9BE,4NG)                1980DR06                  04NDS    200410|20050131|UPD|M.S.Basunia
-175HF    174YB(A,3NG)                  1973HU04                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175HF    174HF(N,G) E=TH               1971AL01                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175HF    176HF(D,T)                    1973ZA08                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175TA    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20050131|UPD|M.S.Basunia
-175TA    175W EC DECAY                 1984SZ07,1972OHZP,1969ADZY04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175TA    160GD(19F,4NG)                1996WE07,1991SH13         04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175TA    170ER(10B,5NG)                1996KO17                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175TA    175LU(A,4NG)                  1972FO20                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175W     ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175W     175RE EC DECAY                1984SZ07                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175W     163DY(16O,4NG)                1978WA16                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175RE    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175RE    175OS EC DECAY                1972BE89                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175RE    156GD(23NA,4NG)               1992JI03                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175RE    161DY(19F,5NG)                1995BA51,1992KI06         04NDS    200410|20050419|FMT|J.Tuli
-175OS    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175OS    175IR EC DECAY                1992SC16,1992BO21         04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175OS    179PT A DECAY                 1982BO04,1979HA10,1970HA1804NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175OS    150SM(29SI,4NG)               1990FA02                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175IR    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20050131|UPD|M.S.Basunia
-175IR    179AU A DECAY                 2004RA28,1986KE03,1968SI0104NDS    200410|20050131|UPD|M.S.Basunia
-175IR    147SM(32S,P3NG)               1991DR06,1991CE02         04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175PT    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20050131|UPD|M.S.Basunia
-175PT    179HG A DECAY                 1971HA03,1979HA10,2002KO0904NDS    200410|20050131|UPD|M.S.Basunia
-175PT    144SM(35CL,P3NG)              1990CE05                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175AU    ADOPTED LEVELS, GAMMAS                                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175AU    179TL A DECAY (0.23 S)        2002RO17,1998TO14,1996Pa0104NDS    200410|20070716|ERR|J.Tuli
-175AU    179TL A DECAY (1.5 MS)        2002RO17,1998TO14,1996Pa0104NDS    200410|20130711|ERR|M.S.Basunia
-175AU    94MO(84SR,P2NG)               2001KO44                  04NDS    200410|20040601|FUL|M.Shamsuzzoha Basunia
-175HG    COMMENTS                                                         200909|20090831|FUL|Balraj Singh
-175HG    ADOPTED LEVELS, GAMMAS                                  04NDS    200909|20090831|FUL|Balraj Singh
-175HG    176TL P DECAY (5.2 MS)        2004KE06                           200909|20090908|FUL|Balraj Singh
-175HG    92MO(86SR,3NG)                2009OD01                           200909|20090908|FUL|Balraj Singh
+175      COMMENTS                                                25NDS    202511|20241029|FUL|Jin Wu
+175DY    ADOPTED LEVELS                                          25NDS    202511|20241029|FUL|Jin Wu
+175HO    ADOPTED LEVELS                                          25NDS    202511|20241029|FUL|Jin Wu
+175ER    ADOPTED LEVELS                                          25NDS    202511|20241029|FUL|Jin Wu
+175ER    9BE(208PB,XG)                 2005CA02                  25NDS    202511|20241029|FUL|Jin Wu
+175TM    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175TM    175ER B- DECAY                2012Hu10                  25NDS    202511|20241029|FUL|Jin Wu
+175TM    176YB(POL T,A)                1979LO09                  25NDS    202511|20241029|FUL|Jin Wu
+175TM    176YB(136XE,XG)               2012HU10                  25NDS    202511|20241029|FUL|Jin Wu
+175YB    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175YB    175TM B- DECAY                1970JA20,1969FU03         25NDS    202511|20241029|FUL|Jin Wu
+175YB    174YB(N,G) E=THERMAL          1971AL27,1971BR17         25NDS    202511|20241029|FUL|Jin Wu
+175YB    174YB(D,P),176YB(D,T)                                   25NDS    202511|20241029|FUL|Jin Wu
+175YB    176YB(3HE,A)                  1971BU01                  25NDS    202511|20241029|FUL|Jin Wu
+175YB    176YB(48CA,XG),176YB(154SM,XG)1999AS05,1997LE11,1997LE1025NDS    202511|20241029|FUL|Jin Wu
+175YB    176YB(136XE,137XEG)           2005NC01                  25NDS    202511|20241029|FUL|Jin Wu
+175LU    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175LU    175YB B- DECAY                1994MI04,1971GR41,1970BR3825NDS    202511|20241029|FUL|Jin Wu
+175LU    175HF EC DECAY                2019Kr06,2015La25,1988Si2225NDS    202511|20241029|FUL|Jin Wu
+175LU    174YB(3HE,D)                  1971ON02                  25NDS    202511|20241029|FUL|Jin Wu
+175LU    174YB(A,T)                    1971ON02                  25NDS    202511|20241029|FUL|Jin Wu
+175LU    175LU(G,G')                   1997HE16,1962DE02         25NDS    202511|20241029|FUL|Jin Wu
+175LU    175LU(N,N'G)                  2004GA04                  25NDS    202511|20241029|FUL|Jin Wu
+175LU    175LU(238U,238U'G)            1998WH02                  25NDS    202511|20241029|FUL|Jin Wu
+175LU    COULOMB EXCITATION            1981SK01,1978BR20,1959EL4225NDS    202511|20241029|FUL|Jin Wu
+175LU    176YB(P,2NG)                  1974WI06,1974FO01         25NDS    202511|20241029|FUL|Jin Wu
+175LU    176LU(D,T)                    1971MI01                  25NDS    202511|20241029|FUL|Jin Wu
+175LU    174LU(N,G):RES                2019EB01                  25NDS    202511|20241029|FUL|Jin Wu
+175HF    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175HF    175TA EC DECAY                1971GA38,1960HA18         25NDS    202511|20241029|FUL|Jin Wu
+175HF    130TE(48CA,3NG)               2004SC41,1995GJ01,1990GJ0125NDS    202511|20241029|FUL|Jin Wu
+175HF    170ER(9BE,4NG)                1980DR06                  25NDS    202511|20241029|FUL|Jin Wu
+175HF    174YB(A,3NG)                  1973HU04                  25NDS    202511|20241029|FUL|Jin Wu
+175HF    176HF(D,T)                    1973ZA08                  25NDS    202511|20241029|FUL|Jin Wu
+175HF    174HF(N,G) E=THERMAL          1971AL01                  25NDS    202511|20241029|FUL|Jin Wu
+175TA    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175TA    175W EC DECAY                 1984SZ07,1972OHZP,1969ADZY25NDS    202511|20241029|FUL|Jin Wu
+175TA    160GD(19F,4NG)                1996WE07,1991SH13         25NDS    202511|20241029|FUL|Jin Wu
+175TA    170ER(10B,5NG)                1996KO17                  25NDS    202511|20241029|FUL|Jin Wu
+175TA    175LU(A,4NG)                  1972FO20                  25NDS    202511|20241029|FUL|Jin Wu
+175W     ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175W     175RE EC DECAY                1984SZ07                  25NDS    202511|20241029|FUL|Jin Wu
+175W     163DY(16O,4NG)                1978WA16                  25NDS    202511|20241029|FUL|Jin Wu
+175RE    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175RE    175OS EC DECAY                1972BE89                  25NDS    202511|20241029|FUL|Jin Wu
+175RE    156GD(23NA,4NG)               1992JI03                  25NDS    202511|20241029|FUL|Jin Wu
+175RE    161DY(19F,5NG)                1995BA51,1992KI06         25NDS    202511|20241029|FUL|Jin Wu
+175OS    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175OS    175IR EC DECAY                1992SC16,1992BO21         25NDS    202511|20241029|FUL|Jin Wu
+175OS    179PT A DECAY                 2021Ha32,1982BO04,1979HA1025NDS    202511|20241029|FUL|Jin Wu
+175OS    150SM(29SI,4NG)               1990FA02                  25NDS    202511|20241029|FUL|Jin Wu
+175IR    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175IR    179AU A DECAY                 2021HA32,2004Ra28,1968Si0125NDS    202511|20241029|FUL|Jin Wu
+175IR    147SM(32S,P3NG)               1991DR06                  25NDS    202511|20241029|FUL|Jin Wu
+175IR    92MO(88SR,APG)                2019GI11                  25NDS    202511|20241029|FUL|Jin Wu
+175IR    146ND(35CL,6N):ISOMER         2010WA02                  25NDS    202511|20241029|FUL|Jin Wu
+175PT    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175PT    179HG A DECAY                 1971HA03,1979HA10         25NDS    202511|20241029|FUL|Jin Wu
+175PT    144SM(35CL,P3NG)              1990CE05                  25NDS    202511|20241029|FUL|Jin Wu
+175PT    92MO(86SR,N2PG)               2014PE02                  25NDS    202511|20241029|FUL|Jin Wu
+175AU    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175AU    94MO(84SR,P2NG)               2001KO44                  25NDS    202511|20241029|FUL|Jin Wu
+175AU    179TL A DECAY (0.426 S)       2017Ba46,2013An10,2010An0125NDS    202511|20241029|FUL|Jin Wu
+175AU    179TL A DECAY (1.40 MS)       2017Ba46,2002RO17,1998TO1425NDS    202511|20241029|FUL|Jin Wu
+175AU    92MO(86SR,P2NG)               2011WA37                  25NDS    202511|20241029|FUL|Jin Wu
+175HG    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20241029|FUL|Jin Wu
+175HG    176TL P DECAY (5.2 MS)        2004KE06                  25NDS    202511|20241029|FUL|Jin Wu
+175HG    92MO(86SR,3NG)                2009OD01                  25NDS    202511|20241029|FUL|Jin Wu
+175HG    179PB A DECAY (2.7 MS)        2017Ba46,2010AN01         25NDS    202511|20241029|FUL|Jin Wu
 176      COMMENTS                                                06NDS    200602|20060201
 176      REFERENCES                                              06NDS    200602|20060201
 176DY    COMMENTS                                                ENSDF    202102|20210131|FUL|Balraj Singh
@@ -19311,42 +19316,42 @@
 239BK    243ES A DECAY                 1973ES02,1989HA27,2010AN0814NDS    201411|20130630|FUL|E.Browne+
 239CF    ADOPTED LEVELS                                          14NDS    201411|20130630|FUL|E.Browne+
 239CF    243FM A DECAY                 1981MU12                  14NDS    201411|20130630|FUL|E.Browne+
-240      COMMENTS                                                08NDS    200810|20080731|FUL|Balraj Singh+
-240      REFERENCES                                              08NDS    200810|20081001
-240U     ADOPTED LEVELS, GAMMAS                                  08NDS    200810|20080731|FUL|Balraj Singh+
-240U     244PU A DECAY (8.11E+7 Y)     1969BE06                  08NDS    200810|20080731|FUL|Balraj Singh+
-240U     238U(T,P)                     1973BA72                  08NDS    200810|20080731|FUL|Balraj Singh+
-240U     238U(18O,16OG)                2005IS07                  08NDS    200810|20080731|FUL|Balraj Singh+
-240NP    ADOPTED LEVELS, GAMMAS                                  08NDS    200810|20080731|FUL|Balraj Singh+
-240NP    240U B- DECAY (14.1 H)        1981HS02                  08NDS    200810|20080731|FUL|Balraj Singh+
-240NP    240NP IT DECAY (7.22 M)       1981HS02                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    ADOPTED LEVELS, GAMMAS                                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    240NP B- DECAY (61.9 M)       1982PA23                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    240NP B- DECAY (7.22 M)       1970SC12,1981HS02         08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    240AM EC DECAY (50.8 H)       1972AH07,1971LEZO,1972POZS08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    244CM A DECAY (18.11 Y)       2002DA21,1998YA17,1972SC0108NDS    200810|20090505|ERR|Balraj Singh
-240PU    238U(A,2NG)                   2001GA05,2000PA40,1972SP0608NDS    200810|20080731|FUL|Balraj Singh+
-240PU    239PU(N,G) E=THERMAL          1975WEZA                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    239PU(N,X):RESONANCES         2006MUZX                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    239PU(N,G) E=0.3-58 EV        1985CH08                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    239PU(N,G) E=2 KEV            1985CH08                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    239PU(D,P)                    1973FR01                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    239PU(D,PF)                   2001HU12                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    240PU(N,N')                   1972SM01                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    240PU(D,D')                   1975TH11                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    COULOMB EXCITATION            2007WAZV,1974MC15,1973BE4408NDS    200810|20080731|FUL|Balraj Singh+
-240PU    241AM(209BI,210POG)           2002ABZV                  08NDS    200810|20080731|FUL|Balraj Singh+
-240PU    242PU(P,T)                    1972MA15                  08NDS    200810|20080731|FUL|Balraj Singh+
-240AM    ADOPTED LEVELS                                          08NDS    200810|20080731|FUL|Balraj Singh+
-240AM    244BK A DECAY (4.35 H)        1966AH02                  08NDS    200810|20080731|FUL|Balraj Singh+
-240AM    241AM(D,T)                    1976GR19                  08NDS    200810|20080731|FUL|Balraj Singh+
-240CM    ADOPTED LEVELS, GAMMAS                                  08NDS    200810|20080731|FUL|Balraj Singh+
-240CM    240BK EC DECAY (4.8 M)                                  08NDS    200810|20150728|ERR|J.Tuli
-240CM    244CF A DECAY (19.4 M)        1967SI08,1967FI04         08NDS    200810|20080731|FUL|Balraj Singh+
-240BK    ADOPTED LEVELS                                          08NDS    200810|20080731|FUL|Balraj Singh+
-240BK    244ES A DECAY (37 S)          1973ES02                  08NDS    200810|20080731|FUL|Balraj Singh+
-240CF    ADOPTED LEVELS                1995LA09,1970SI19         08NDS    200810|20080731|FUL|Balraj Singh+
-240ES    ADOPTED LEVELS                                          ENSDF    201612|20161222|FUL|F.G.Kondev
+240      COMMENTS                                                25NDS    202511|20240927|FUL|C.Morse
+240U     ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20240927|FUL|C.Morse
+240U     238U(T,P)                     1973BA72                  25NDS    202511|20240927|FUL|C.Morse
+240U     238U(18O,16OG)                2005IS07                  25NDS    202511|20240927|FUL|C.Morse
+240U     244PU A DECAY                 1969BE06                  25NDS    202511|20240927|FUL|C.Morse
+240U     238U(136XE,XG),(70ZN,XG)      2015Bi08                  25NDS    202511|20240927|FUL|C.Morse
+240NP    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20240927|FUL|C.Morse
+240NP    240U B- DECAY                 1981HS02                  25NDS    202511|20240927|FUL|C.Morse
+240NP    240NP IT DECAY                1981HS02                  25NDS    202511|20240927|FUL|C.Morse
+240PU    ADOPTED LEVELS, GAMMAS                                  25NDS    202511|20240927|FUL|C.Morse
+240PU    240NP B- DECAY (61.9 M)       1982PA23                  25NDS    202511|20240927|FUL|C.Morse
+240PU    240NP B- DECAY (7.22 M)       1970SC12,1981HS02         25NDS    202511|20240927|FUL|C.Morse
+240PU    238U(A,2NG)                   2001GA05,2000PA40,1972SP0625NDS    202511|20240927|FUL|C.Morse
+240PU    239PU(N,G) E=THERMAL          1975WEZA,1972MaYQ         25NDS    202511|20240927|FUL|C.Morse
+240PU    239PU(N,G) E=0.3-58 EV        1985CH08                  25NDS    202511|20240927|FUL|C.Morse
+240PU    239PU(N,G) E=2 KEV            1985CH08                  25NDS    202511|20240927|FUL|C.Morse
+240PU    239PU(D,P)                    1973FR01                  25NDS    202511|20240927|FUL|C.Morse
+240PU    239PU(D,PF)                   2001HU12                  25NDS    202511|20240927|FUL|C.Morse
+240PU    240PU(N,N')                   1972SM01                  25NDS    202511|20240927|FUL|C.Morse
+240PU    240PU(D,D')                   1975TH11                  25NDS    202511|20240927|FUL|C.Morse
+240PU    COULOMB EXCITATION            2007WAZV,1974MC15,1973BE4425NDS    202511|20240927|FUL|C.Morse
+240PU    241AM(209BI,210POG)           2002ABZV                  25NDS    202511|20240927|FUL|C.Morse
+240PU    242PU(P,T)                    2018Sp02                  25NDS    202511|20240927|FUL|C.Morse
+240PU    240AM EC DECAY                1972AH07,1971LEZO,1972POZS25NDS    202511|20240927|FUL|C.Morse
+240PU    244CM A DECAY                 2002DA21,1998YA17,1972SC0125NDS    202511|20240927|FUL|C.Morse
+240PU    240PU(G,G')                   2012QU03                  25NDS    202511|20240927|FUL|C.Morse
+240AM    ADOPTED LEVELS                                          25NDS    202511|20240927|FUL|C.Morse
+240AM    241AM(D,T)                    1976GR19                  25NDS    202511|20240927|FUL|C.Morse
+240AM    244BK A DECAY                 1966AH02                  25NDS    202511|20240927|FUL|C.Morse
+240CM    ADOPTED LEVELS                                          25NDS    202511|20240927|FUL|C.Morse
+240CM    244CF A DECAY                 1967SI08,1967FI04         25NDS    202511|20240927|FUL|C.Morse
+240BK    ADOPTED LEVELS                                          25NDS    202511|20240927|FUL|C.Morse
+240BK    244ES A DECAY                 1973ES02                  25NDS    202511|20240927|FUL|C.Morse
+240CF    ADOPTED LEVELS                                          25NDS    202511|20240927|FUL|C.Morse
+240ES    ADOPTED LEVELS                                          25NDS    202511|20240927|FUL|C.Morse
+240ES    244MD A DECAY                 2020PO07,2020KH08         25NDS    202511|20240927|FUL|C.Morse
 241      COMMENTS                                                15NDS    201512|20150930|FUL|C.D.Nesaraja
 241      REFERENCES                                              15NDS    201512|20151201
 241U     COMMENTS                                                ENSDF    202312|20230412|FUL|Balraj Singh+
