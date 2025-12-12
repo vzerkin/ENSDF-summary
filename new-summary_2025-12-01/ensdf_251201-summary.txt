@@ -12,7 +12,7 @@
   Nuclides:    3443
   Datasets:    20093
 
---------Summary of updating--------
+--------Summary of updating:TYP=FUL--------
 --Year  #Files
   2025  5     |||||
   2024  9     |||||||||
