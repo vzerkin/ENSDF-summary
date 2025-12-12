@@ -1,6 +1,6 @@
 ---ENSDF files statistics.
 ---by V.Zerkn, 2025
----Generated: 2025-12-10,15:36:16
+---Generated: 2025-12-12,18:25:18
 ---Computer:  zerkin-VirtualBox
 ---Directory: ensdf_251201
 ---MassChain: 299
@@ -8,135 +8,135 @@
 ---Datasets:  20093
 
 ---#Datasets in which evaluator took part---
-   5353 Balraj Singh
-   3133 Jun Chen
-   1420 J.K.Tuli
-   1374 M.S.Basunia
-   1310 N.Nica
-   1240 F.G.Kondev
-   1236 J.H.Kelley
-   1149 E.A.Mccutchan
-   1066 E.Browne
-   1058 Coral M.Baglin
-    880 C.G.Sheu
-    764 Jean Blachot
-    702 A.A.Sonzogni
-    619 C.D.Nesaraja
-    578 Huang Xiaolong
-    553 Huo Junde
+   5311 Balraj Singh
+   3154 Jun Chen
+   1380 M.S.Basunia
+   1324 N.Nica
+   1247 F.G.Kondev
+   1242 J.H.Kelley
+   1229 J.K.Tuli
+   1143 E.A.Mccutchan
+   1101 E.Browne
+   1064 Coral M.Baglin
+    831 Jean Blachot
+    810 C.G.Sheu
+    728 A.A.Sonzogni
+    624 C.D.Nesaraja
+    590 Huang Xiaolong
+    563 Huo Junde
     407 J.E.Purcell
-    358 Yu.Khazov
-    358 A.A.Rodionov
-    295 Yang Dong
-    292 S.K.Basu
+    367 Yu.Khazov
+    367 A.A.Rodionov
+    299 S.K.Basu
+    297 Yang Dong
+    281 J.L.Godwin
     278 A.Negret
-    276 J.L.Godwin
-    258 S.Lalkovski
-    256 C.W.Reich
-    251 D.Abriola
+    261 S.Lalkovski
+    260 D.Abriola
+    260 C.W.Reich
     248 J.Katakura
-    245 Ameenah R.Farhan
-    221 John Cameron
-    219 D.De Frenne
-    218 T.D.Johnson
-    205 S.-C.Wu
-    204 M.J.Martin
-    189 G.G~Urdal
-    178 C.Morse
+    246 Ameenah R.Farhan
+    231 John Cameron
+    227 D.De Frenne
+    225 M.J.Martin
+    219 T.D.Johnson
+    214 S.-C.Wu
+    190 G.G~Urdal
+    177 D.R.Tilley
     172 S.Ohya
     172 A.Chakraborty
+    165 C.Morse
     164 Zoltan Elekes
     164 Janos Timar
     164 Anagha Chakraborty
-    157 A.M.Hurst
-    155 Kang Mengxiao
-    150 F.Ajzenberg-Selove
-    143 T.W.Burrows
-    137 G.C.Sheu
-    135 A.Hashizume
-    134 Tilley
-    129 C.M.Cheves
+    163 F.Ajzenberg-Selove
+    160 A.M.Hurst
+    156 Kang Mengxiao
+    155 C.M.Cheves
+    149 T.W.Burrows
+    148 Tilley
+    139 G.C.Sheu
+    139 A.Hashizume
+    124 K.Kitao
     121 Wang Xianghan
-    113 S.Singh
-    113 A.K.Jain
-    105 K.Kitao
+    117 A.K.Jain
+    114 S.Singh
+    104 G.Mukherjee
     101 Shaofei Zhu
+    101 P.K.Joshi
     100 Wang Jimin
     100 S.Kumar
-    100 P.K.Joshi
-     99 G.Mukherjee
+     95 M.Fadil
      94 S.Ota
+     91 Kelley
+     91 Hu
      91 H.Iimura
-     90 D.R.Tilley
+     88 Zhou Chunmei
      88 J.Timar
-     87 M.Fadil
-     87 Kelley
-     87 Hu
-     85 S.Basunia
      84 Z.Elekes
      84 S.Juutinen
+     84 S.Basunia
+     84 G.Shulyak
      82 Z.D.Wu
-     82 G.Shulyak
-     79 Zhou Chunmei
-     77 Scott D.Geraedts
-     75 J.C.Batchelder
-     75 D.Symochko
+     80 Scott D.Geraedts
+     77 D.Symochko
+     76 T.Tamura
+     76 J.C.Batchelder
+     75 M.R.Bhat
      74 W.D.Kulp
      74 D.J.Hartley
-     73 M.R.Bhat
+     73 I.Mitropolsky
+     73 Huo Su
      73 C.J.Chiara
-     72 T.Tamura
-     71 Huo Su
-     70 I.Mitropolsky
+     71 D.J Millener
+     70 S.Sakharov
      69 Jin Wu
-     68 S.Sakharov
+     67 Y.Tendow
+     66 D.M.Symochko
+     65 H.R.Weller
+     64 R.B.Firestone
+     64 O.A.Capurro
      64 Michael Birch
-     63 Y.Tendow
-     63 R.B.Firestone
-     63 D.M.Symochko
+     64 G.V.Marti
+     64 E.Achterberg
      61 J.Purcell
-     57 O.A.Capurro
-     57 G.V.Marti
-     57 E.Achterberg
-     54 H.R.Weller
+     57 Weller
+     57 Chasteler
      51 K.Auranen
      48 Kazimierz Zuber
-     47 Weller
-     47 Chasteler
-     43 Sukhjeet Singh
+     45 Sukhjeet Singh
      39 Edgardo Browne
-     32 V.S.Shirley
-     29 S.Raman
-     28 H.Weller
+     36 S.Raman
+     35 V.S.Shirley
+     35 H.Weller
+     32 Y.A.Akovali
+     31 Y.Akovali
      27 Khalifeh Abusaleem
      27 ICTP-2014 Workshop Group
-     26 Y.Akovali
      25 R.Spitzer
-     24 Y.A.Akovali
      24 A.M.Mattera
      24 A.B.Hayes
      21 Murray Martin
      21 B.Grees
      19 K.Zuber
+     18 B.Pfeiffer
      16 Tibor Kibedi
+     16 Suresh Kumar
+     16 R.Raut
+     16 Ashok Jain
      16 Agda Artna-Cohen
-     14 Suresh Kumar
-     14 J.Blachot
-     14 Ashok Jain
-     13 R.Raut
+     14 J.Y.Lee
      13 M.S.Narijauskas
-     13 J.Y.Lee
-     12 B.Pfeiffer
+     10 P.Blokhin
+     10 N.Sharma
      10 M.Patial
+     10 J.Kaur
      10 H.X.Nguyen
      10 A.Luca
       9 T.Truong
-      9 P.Blokhin
       9 O.Gorbachenko
       9 N.Todorovic
-      9 N.Sharma
       9 K.Setoodehnia
-      9 J.Kaur
       7 M.Gupta
       7 H.Huang
       7 A.Tarazaga
@@ -158,7 +158,6 @@
       4 R.Shearman
       4 K.Vijay Sai
       4 K.Rojeeta Devi
-      4 J.Shuman
       4 G.Khalil
       4 B.Yang
       4 Boris Pritychenko
@@ -170,17 +169,16 @@
       3 K.Banerjee
       3 J.Wang
       3 J.Lee
+      3 G.M.Hale
+      3 B.Pritychenko
       2 M.Trudel
       2 L.A.Bernstein
-      1 V.Chechev
-      1 R.Helmer
+      2 J.Shuman
       1 Kolkata Workshop Group
+      1 illey
       1 ICTP-2016 Workshop Group
       1 IAEA-ICTP 2012 Workshop Group
-      1 G.Sheu
-      1 G.M.Hale
       1 ENSDD-2012
-      1 D.J Millener
       1 Bucharest Workshop Group
 ------- -----
-  33831 174
+  34220 172
