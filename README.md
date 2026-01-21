@@ -1,5 +1,5 @@
 ## ENSDF-Summary - overview of the content of ENSDF library
-_by V.Zerkin, 2025_
+_by V.Zerkin, 2025-2026_
 
 ### Introdiuction
 Summary reports are generated on ENSDF-Archive files using on Dataset Identification-records.
